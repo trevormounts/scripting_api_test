@@ -1,0 +1,2772 @@
+{
+    "elems": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_0_h1.png": "iter_00000_step_00001_0_h1.png", 
+            "iter_00000_step_00000_10_li.png": "iter_00000_step_00004_12_li.png", 
+            "iter_00000_step_00000_11_a.png": "iter_00000_step_00004_14_a.png", 
+            "iter_00000_step_00000_12_i.png": "iter_00000_step_00004_15_i.png", 
+            "iter_00000_step_00000_13_a.png": "iter_00000_step_00004_17_a.png", 
+            "iter_00000_step_00000_14_li.png": "iter_00000_step_00004_18_li.png", 
+            "iter_00000_step_00000_15_div.png": "iter_00000_step_00001_15_div.png", 
+            "iter_00000_step_00000_16_a.png": "iter_00000_step_00004_20_a.png", 
+            "iter_00000_step_00000_17_li.png": "iter_00000_step_00004_23_li.png", 
+            "iter_00000_step_00000_18_a.png": "iter_00000_step_00004_25_a.png", 
+            "iter_00000_step_00000_19_li.png": "iter_00000_step_00004_26_li.png", 
+            "iter_00000_step_00000_1_li.png": "iter_00000_step_00001_1_li.png", 
+            "iter_00000_step_00000_20_div.png": "iter_00000_step_00001_20_div.png", 
+            "iter_00000_step_00000_21_a.png": "iter_00000_step_00004_33_a.png", 
+            "iter_00000_step_00000_22_span.png": "iter_00000_step_00001_22_span.png", 
+            "iter_00000_step_00000_23_div.png": "iter_00000_step_00001_23_div.png", 
+            "iter_00000_step_00000_24_li.png": "iter_00000_step_00004_36_li.png", 
+            "iter_00000_step_00000_25_div.png": "iter_00000_step_00001_25_div.png", 
+            "iter_00000_step_00000_26_div.png": "iter_00000_step_00001_26_div.png", 
+            "iter_00000_step_00000_27_li.png": "iter_00000_step_00004_45_li.png", 
+            "iter_00000_step_00000_2_i.png": "iter_00000_step_00001_2_i.png", 
+            "iter_00000_step_00000_3_a.png": "iter_00000_step_00004_3_a.png", 
+            "iter_00000_step_00000_4_a.png": "iter_00000_step_00004_4_a.png", 
+            "iter_00000_step_00000_5_div.png": "iter_00000_step_00001_5_div.png", 
+            "iter_00000_step_00000_6_i.png": "iter_00000_step_00004_8_i.png", 
+            "iter_00000_step_00000_7_li.png": "iter_00000_step_00004_9_li.png", 
+            "iter_00000_step_00000_8_a.png": "iter_00000_step_00004_10_a.png", 
+            "iter_00000_step_00000_9_a.png": "iter_00000_step_00004_11_a.png", 
+            "iter_00000_step_00001_0_h1.png": "iter_00000_step_00001_0_h1.png", 
+            "iter_00000_step_00001_10_li.png": "iter_00000_step_00004_12_li.png", 
+            "iter_00000_step_00001_11_a.png": "iter_00000_step_00004_14_a.png", 
+            "iter_00000_step_00001_12_i.png": "iter_00000_step_00004_15_i.png", 
+            "iter_00000_step_00001_13_a.png": "iter_00000_step_00004_17_a.png", 
+            "iter_00000_step_00001_14_li.png": "iter_00000_step_00004_18_li.png", 
+            "iter_00000_step_00001_15_div.png": "iter_00000_step_00001_15_div.png", 
+            "iter_00000_step_00001_16_a.png": "iter_00000_step_00004_20_a.png", 
+            "iter_00000_step_00001_17_li.png": "iter_00000_step_00004_23_li.png", 
+            "iter_00000_step_00001_18_a.png": "iter_00000_step_00004_25_a.png", 
+            "iter_00000_step_00001_19_li.png": "iter_00000_step_00004_26_li.png", 
+            "iter_00000_step_00001_1_li.png": "iter_00000_step_00001_1_li.png", 
+            "iter_00000_step_00001_20_div.png": "iter_00000_step_00001_20_div.png", 
+            "iter_00000_step_00001_21_a.png": "iter_00000_step_00004_33_a.png", 
+            "iter_00000_step_00001_22_span.png": "iter_00000_step_00001_22_span.png", 
+            "iter_00000_step_00001_23_div.png": "iter_00000_step_00001_23_div.png", 
+            "iter_00000_step_00001_24_li.png": "iter_00000_step_00004_36_li.png", 
+            "iter_00000_step_00001_25_div.png": "iter_00000_step_00001_25_div.png", 
+            "iter_00000_step_00001_26_div.png": "iter_00000_step_00001_26_div.png", 
+            "iter_00000_step_00001_27_li.png": "iter_00000_step_00004_45_li.png", 
+            "iter_00000_step_00001_2_i.png": "iter_00000_step_00001_2_i.png", 
+            "iter_00000_step_00001_3_a.png": "iter_00000_step_00004_3_a.png", 
+            "iter_00000_step_00001_4_a.png": "iter_00000_step_00004_4_a.png", 
+            "iter_00000_step_00001_5_div.png": "iter_00000_step_00001_5_div.png", 
+            "iter_00000_step_00001_6_i.png": "iter_00000_step_00004_8_i.png", 
+            "iter_00000_step_00001_7_li.png": "iter_00000_step_00004_9_li.png", 
+            "iter_00000_step_00001_8_a.png": "iter_00000_step_00004_10_a.png", 
+            "iter_00000_step_00001_9_a.png": "iter_00000_step_00004_11_a.png", 
+            "iter_00000_step_00002_0_div.png": "iter_00000_step_00004_0_div.png", 
+            "iter_00000_step_00002_10_a.png": "iter_00000_step_00004_10_a.png", 
+            "iter_00000_step_00002_11_a.png": "iter_00000_step_00004_11_a.png", 
+            "iter_00000_step_00002_12_li.png": "iter_00000_step_00004_12_li.png", 
+            "iter_00000_step_00002_13_div.png": "iter_00000_step_00004_13_div.png", 
+            "iter_00000_step_00002_14_a.png": "iter_00000_step_00004_14_a.png", 
+            "iter_00000_step_00002_15_i.png": "iter_00000_step_00004_15_i.png", 
+            "iter_00000_step_00002_16_div.png": "iter_00000_step_00003_16_div.png", 
+            "iter_00000_step_00002_17_a.png": "iter_00000_step_00004_17_a.png", 
+            "iter_00000_step_00002_18_li.png": "iter_00000_step_00004_18_li.png", 
+            "iter_00000_step_00002_19_div.png": "iter_00000_step_00004_19_div.png", 
+            "iter_00000_step_00002_1_li.png": "iter_00000_step_00004_1_li.png", 
+            "iter_00000_step_00002_20_a.png": "iter_00000_step_00004_20_a.png", 
+            "iter_00000_step_00002_21_div.png": "iter_00000_step_00004_21_div.png", 
+            "iter_00000_step_00002_22_div.png": "iter_00000_step_00003_22_div.png", 
+            "iter_00000_step_00002_23_li.png": "iter_00000_step_00004_23_li.png", 
+            "iter_00000_step_00002_24_button.png": "iter_00000_step_00004_24_button.png", 
+            "iter_00000_step_00002_25_a.png": "iter_00000_step_00004_25_a.png", 
+            "iter_00000_step_00002_26_li.png": "iter_00000_step_00004_26_li.png", 
+            "iter_00000_step_00002_27_div.png": "iter_00000_step_00003_27_div.png", 
+            "iter_00000_step_00002_28_div.png": "iter_00000_step_00004_28_div.png", 
+            "iter_00000_step_00002_29_div.png": "iter_00000_step_00004_29_div.png", 
+            "iter_00000_step_00002_2_i.png": "iter_00000_step_00004_2_i.png", 
+            "iter_00000_step_00002_30_div.png": "iter_00000_step_00004_30_div.png", 
+            "iter_00000_step_00002_31_div.png": "iter_00000_step_00004_31_div.png", 
+            "iter_00000_step_00002_32_div.png": "iter_00000_step_00004_32_div.png", 
+            "iter_00000_step_00002_33_a.png": "iter_00000_step_00004_33_a.png", 
+            "iter_00000_step_00002_34_div.png": "iter_00000_step_00004_34_div.png", 
+            "iter_00000_step_00002_35_div.png": "iter_00000_step_00004_35_div.png", 
+            "iter_00000_step_00002_36_li.png": "iter_00000_step_00004_36_li.png", 
+            "iter_00000_step_00002_37_div.png": "iter_00000_step_00004_37_div.png", 
+            "iter_00000_step_00002_38_div.png": "iter_00000_step_00004_38_div.png", 
+            "iter_00000_step_00002_39_div.png": "iter_00000_step_00004_39_div.png", 
+            "iter_00000_step_00002_3_a.png": "iter_00000_step_00004_3_a.png", 
+            "iter_00000_step_00002_40_button.png": "iter_00000_step_00004_40_button.png", 
+            "iter_00000_step_00002_41_div.png": "iter_00000_step_00004_41_div.png", 
+            "iter_00000_step_00002_42_div.png": "iter_00000_step_00004_42_div.png", 
+            "iter_00000_step_00002_43_div.png": "iter_00000_step_00004_43_div.png", 
+            "iter_00000_step_00002_44_div.png": "iter_00000_step_00004_44_div.png", 
+            "iter_00000_step_00002_45_li.png": "iter_00000_step_00004_45_li.png", 
+            "iter_00000_step_00002_46_div.png": "iter_00000_step_00004_46_div.png", 
+            "iter_00000_step_00002_4_a.png": "iter_00000_step_00004_4_a.png", 
+            "iter_00000_step_00002_5_button.png": "iter_00000_step_00004_5_button.png", 
+            "iter_00000_step_00002_6_div.png": "iter_00000_step_00004_6_div.png", 
+            "iter_00000_step_00002_7_div.png": "iter_00000_step_00004_7_div.png", 
+            "iter_00000_step_00002_8_i.png": "iter_00000_step_00004_8_i.png", 
+            "iter_00000_step_00002_9_li.png": "iter_00000_step_00004_9_li.png", 
+            "iter_00000_step_00003_0_div.png": "iter_00000_step_00004_0_div.png", 
+            "iter_00000_step_00003_10_a.png": "iter_00000_step_00004_10_a.png", 
+            "iter_00000_step_00003_11_a.png": "iter_00000_step_00004_11_a.png", 
+            "iter_00000_step_00003_12_li.png": "iter_00000_step_00004_12_li.png", 
+            "iter_00000_step_00003_13_div.png": "iter_00000_step_00004_13_div.png", 
+            "iter_00000_step_00003_14_a.png": "iter_00000_step_00004_14_a.png", 
+            "iter_00000_step_00003_15_i.png": "iter_00000_step_00004_15_i.png", 
+            "iter_00000_step_00003_16_div.png": "iter_00000_step_00003_16_div.png", 
+            "iter_00000_step_00003_17_a.png": "iter_00000_step_00004_17_a.png", 
+            "iter_00000_step_00003_18_li.png": "iter_00000_step_00004_18_li.png", 
+            "iter_00000_step_00003_19_div.png": "iter_00000_step_00004_19_div.png", 
+            "iter_00000_step_00003_1_li.png": "iter_00000_step_00004_1_li.png", 
+            "iter_00000_step_00003_20_a.png": "iter_00000_step_00004_20_a.png", 
+            "iter_00000_step_00003_21_div.png": "iter_00000_step_00004_21_div.png", 
+            "iter_00000_step_00003_22_div.png": "iter_00000_step_00003_22_div.png", 
+            "iter_00000_step_00003_23_li.png": "iter_00000_step_00004_23_li.png", 
+            "iter_00000_step_00003_24_button.png": "iter_00000_step_00004_24_button.png", 
+            "iter_00000_step_00003_25_a.png": "iter_00000_step_00004_25_a.png", 
+            "iter_00000_step_00003_26_li.png": "iter_00000_step_00004_26_li.png", 
+            "iter_00000_step_00003_27_div.png": "iter_00000_step_00003_27_div.png", 
+            "iter_00000_step_00003_28_div.png": "iter_00000_step_00004_28_div.png", 
+            "iter_00000_step_00003_29_div.png": "iter_00000_step_00004_29_div.png", 
+            "iter_00000_step_00003_2_i.png": "iter_00000_step_00004_2_i.png", 
+            "iter_00000_step_00003_30_div.png": "iter_00000_step_00004_30_div.png", 
+            "iter_00000_step_00003_31_div.png": "iter_00000_step_00004_31_div.png", 
+            "iter_00000_step_00003_32_div.png": "iter_00000_step_00004_32_div.png", 
+            "iter_00000_step_00003_33_a.png": "iter_00000_step_00004_33_a.png", 
+            "iter_00000_step_00003_34_div.png": "iter_00000_step_00004_34_div.png", 
+            "iter_00000_step_00003_35_div.png": "iter_00000_step_00004_35_div.png", 
+            "iter_00000_step_00003_36_li.png": "iter_00000_step_00004_36_li.png", 
+            "iter_00000_step_00003_37_div.png": "iter_00000_step_00004_37_div.png", 
+            "iter_00000_step_00003_38_div.png": "iter_00000_step_00004_38_div.png", 
+            "iter_00000_step_00003_39_div.png": "iter_00000_step_00004_39_div.png", 
+            "iter_00000_step_00003_3_a.png": "iter_00000_step_00004_3_a.png", 
+            "iter_00000_step_00003_40_button.png": "iter_00000_step_00004_40_button.png", 
+            "iter_00000_step_00003_41_div.png": "iter_00000_step_00004_41_div.png", 
+            "iter_00000_step_00003_42_div.png": "iter_00000_step_00004_42_div.png", 
+            "iter_00000_step_00003_43_div.png": "iter_00000_step_00004_43_div.png", 
+            "iter_00000_step_00003_44_div.png": "iter_00000_step_00004_44_div.png", 
+            "iter_00000_step_00003_45_li.png": "iter_00000_step_00004_45_li.png", 
+            "iter_00000_step_00003_46_div.png": "iter_00000_step_00004_46_div.png", 
+            "iter_00000_step_00003_4_a.png": "iter_00000_step_00004_4_a.png", 
+            "iter_00000_step_00003_5_button.png": "iter_00000_step_00004_5_button.png", 
+            "iter_00000_step_00003_6_div.png": "iter_00000_step_00004_6_div.png", 
+            "iter_00000_step_00003_7_div.png": "iter_00000_step_00004_7_div.png", 
+            "iter_00000_step_00003_8_i.png": "iter_00000_step_00004_8_i.png", 
+            "iter_00000_step_00003_9_li.png": "iter_00000_step_00004_9_li.png", 
+            "iter_00000_step_00004_0_div.png": "iter_00000_step_00004_0_div.png", 
+            "iter_00000_step_00004_10_a.png": "iter_00000_step_00004_10_a.png", 
+            "iter_00000_step_00004_11_a.png": "iter_00000_step_00004_11_a.png", 
+            "iter_00000_step_00004_12_li.png": "iter_00000_step_00004_12_li.png", 
+            "iter_00000_step_00004_13_div.png": "iter_00000_step_00004_13_div.png", 
+            "iter_00000_step_00004_14_a.png": "iter_00000_step_00004_14_a.png", 
+            "iter_00000_step_00004_15_i.png": "iter_00000_step_00004_15_i.png", 
+            "iter_00000_step_00004_16_div.png": "iter_00000_step_00004_16_div.png", 
+            "iter_00000_step_00004_17_a.png": "iter_00000_step_00004_17_a.png", 
+            "iter_00000_step_00004_18_li.png": "iter_00000_step_00004_18_li.png", 
+            "iter_00000_step_00004_19_div.png": "iter_00000_step_00004_19_div.png", 
+            "iter_00000_step_00004_1_li.png": "iter_00000_step_00004_1_li.png", 
+            "iter_00000_step_00004_20_a.png": "iter_00000_step_00004_20_a.png", 
+            "iter_00000_step_00004_21_div.png": "iter_00000_step_00004_21_div.png", 
+            "iter_00000_step_00004_22_div.png": "iter_00000_step_00004_22_div.png", 
+            "iter_00000_step_00004_23_li.png": "iter_00000_step_00004_23_li.png", 
+            "iter_00000_step_00004_24_button.png": "iter_00000_step_00004_24_button.png", 
+            "iter_00000_step_00004_25_a.png": "iter_00000_step_00004_25_a.png", 
+            "iter_00000_step_00004_26_li.png": "iter_00000_step_00004_26_li.png", 
+            "iter_00000_step_00004_27_div.png": "iter_00000_step_00004_27_div.png", 
+            "iter_00000_step_00004_28_div.png": "iter_00000_step_00004_28_div.png", 
+            "iter_00000_step_00004_29_div.png": "iter_00000_step_00004_29_div.png", 
+            "iter_00000_step_00004_2_i.png": "iter_00000_step_00004_2_i.png", 
+            "iter_00000_step_00004_30_div.png": "iter_00000_step_00004_30_div.png", 
+            "iter_00000_step_00004_31_div.png": "iter_00000_step_00004_31_div.png", 
+            "iter_00000_step_00004_32_div.png": "iter_00000_step_00004_32_div.png", 
+            "iter_00000_step_00004_33_a.png": "iter_00000_step_00004_33_a.png", 
+            "iter_00000_step_00004_34_div.png": "iter_00000_step_00004_34_div.png", 
+            "iter_00000_step_00004_35_div.png": "iter_00000_step_00004_35_div.png", 
+            "iter_00000_step_00004_36_li.png": "iter_00000_step_00004_36_li.png", 
+            "iter_00000_step_00004_37_div.png": "iter_00000_step_00004_37_div.png", 
+            "iter_00000_step_00004_38_div.png": "iter_00000_step_00004_38_div.png", 
+            "iter_00000_step_00004_39_div.png": "iter_00000_step_00004_39_div.png", 
+            "iter_00000_step_00004_3_a.png": "iter_00000_step_00004_3_a.png", 
+            "iter_00000_step_00004_40_button.png": "iter_00000_step_00004_40_button.png", 
+            "iter_00000_step_00004_41_div.png": "iter_00000_step_00004_41_div.png", 
+            "iter_00000_step_00004_42_div.png": "iter_00000_step_00004_42_div.png", 
+            "iter_00000_step_00004_43_div.png": "iter_00000_step_00004_43_div.png", 
+            "iter_00000_step_00004_44_div.png": "iter_00000_step_00004_44_div.png", 
+            "iter_00000_step_00004_45_li.png": "iter_00000_step_00004_45_li.png", 
+            "iter_00000_step_00004_46_div.png": "iter_00000_step_00004_46_div.png", 
+            "iter_00000_step_00004_4_a.png": "iter_00000_step_00004_4_a.png", 
+            "iter_00000_step_00004_5_button.png": "iter_00000_step_00004_5_button.png", 
+            "iter_00000_step_00004_6_div.png": "iter_00000_step_00004_6_div.png", 
+            "iter_00000_step_00004_7_div.png": "iter_00000_step_00004_7_div.png", 
+            "iter_00000_step_00004_8_i.png": "iter_00000_step_00004_8_i.png", 
+            "iter_00000_step_00004_9_li.png": "iter_00000_step_00004_9_li.png", 
+            "iter_00000_step_00005_0_button.png": "iter_00000_step_00005_0_button.png", 
+            "iter_00000_step_00005_1_div.png": "iter_00000_step_00005_1_div.png", 
+            "iter_00000_step_00005_2_div.png": "iter_00000_step_00005_2_div.png", 
+            "iter_00000_step_00005_3_button.png": "iter_00000_step_00005_3_button.png", 
+            "iter_00000_step_00005_4_div.png": "iter_00000_step_00005_4_div.png", 
+            "iter_00000_step_00005_5_span.png": "iter_00000_step_00005_5_span.png", 
+            "iter_00000_step_00005_6_div.png": "iter_00000_step_00005_6_div.png", 
+            "iter_00000_step_00005_7_div.png": "iter_00000_step_00005_7_div.png"
+        }, 
+        "elems_to_infos": {
+            "iter_00000_step_00001_0_h1.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_0_h1.png", 
+                    "iter_00000_step_00000_0_h1.png"
+                ], 
+                "elem_info": {
+                    "class": "h1", 
+                    "hash": "HyRmKLLtSWsS4zhglztsbA==\n", 
+                    "height": 96, 
+                    "human_hash": "h1_X1334_Y476_W1172_H96", 
+                    "tag_name": "h1", 
+                    "text": "Welcome to the Scripting API Site", 
+                    "width": 1172, 
+                    "x": 1334, 
+                    "y": 476
+                }, 
+                "tags": [
+                    "h1", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Welcome_to_the_Scripting_API_Site"
+                ]
+            }, 
+            "iter_00000_step_00001_15_div.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_15_div.png", 
+                    "iter_00000_step_00000_15_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "XvMKjMXYjMvD68FlLDVqig==\n", 
+                    "height": 80, 
+                    "human_hash": "div_X780_Y16_W2280_H80", 
+                    "tag_name": "div", 
+                    "text": "Home\n      \n        \n      \n      \n        \n          \n            Basic Gestures\n          \n          \n            Find Element\n          \n          \n            Verify\n          \n          \n            Wait\n          \n          \n            Tap Param\n          \n          \n            Input Param\n          \n             \n        \n\n        \n          \n            \n               Profile\n            \n            \n               \n                 Profile\n              \n              \n                 Settings\n              \n            \n          \n          \n            \n               Logout", 
+                    "width": 2280, 
+                    "x": 780, 
+                    "y": 16
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Home\n______\n________\n______\n______\n________\n__________\n____________Basic_Gestures\n__________\n__________\n____________Find_Element\n__________\n__________\n____________Verify\n__________\n__________\n____________Wait\n__________\n__________\n____________Tap_Param\n__________\n__________\n____________Input_Param\n__________\n_____________\n________\n\n________\n__________\n____________\n_______________Profile\n____________\n____________\n_______________\n_________________Profile\n______________\n______________\n_________________Settings\n______________\n____________\n__________\n__________\n____________\n_______________Logout"
+                ]
+            }, 
+            "iter_00000_step_00001_1_li.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_1_li.png", 
+                    "iter_00000_step_00000_1_li.png"
+                ], 
+                "elem_info": {
+                    "class": "li", 
+                    "hash": "h6lOFb/NMExxnvhm2vXd6Q==\n", 
+                    "height": 80, 
+                    "human_hash": "li_X2620_Y16_W196_H80", 
+                    "tag_name": "li", 
+                    "text": "Profile\n            \n            \n               \n                 Profile\n              \n              \n                 Settings", 
+                    "width": 196, 
+                    "x": 2620, 
+                    "y": 16
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "li"
+                ], 
+                "text": [
+                    "Profile\n____________\n____________\n_______________\n_________________Profile\n______________\n______________\n_________________Settings"
+                ]
+            }, 
+            "iter_00000_step_00001_20_div.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_20_div.png", 
+                    "iter_00000_step_00000_20_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "JmzdqfarVTw3Gh7Bl4O9yQ==\n", 
+                    "height": 224, 
+                    "human_hash": "div_X1334_Y476_W1172_H224", 
+                    "tag_name": "div", 
+                    "text": "Welcome to the Scripting API Site\n        \n        Please Select One of the Tests Above to Start", 
+                    "width": 1172, 
+                    "x": 1334, 
+                    "y": 476
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Welcome_to_the_Scripting_API_Site\n________\n________Please_Select_One_of_the_Tests_Above_to_Start"
+                ]
+            }, 
+            "iter_00000_step_00001_22_span.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_22_span.png", 
+                    "iter_00000_step_00000_22_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "uJM6HTvQDDmWWCno00RpYg==\n", 
+                    "height": 46, 
+                    "human_hash": "span_X1860_Y1686_W88_H46", 
+                    "tag_name": "span", 
+                    "text": "2021", 
+                    "width": 88, 
+                    "x": 1860, 
+                    "y": 1686
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "2021"
+                ]
+            }, 
+            "iter_00000_step_00001_23_div.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_23_div.png", 
+                    "iter_00000_step_00000_23_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "46CrbHNWBqwnDz+rncd1og==\n", 
+                    "height": 416, 
+                    "human_hash": "div_X780_Y380_W2280_H416", 
+                    "tag_name": "div", 
+                    "text": "Welcome to the Scripting API Site\n        \n        Please Select One of the Tests Above to Start", 
+                    "width": 2280, 
+                    "x": 780, 
+                    "y": 380
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Welcome_to_the_Scripting_API_Site\n________\n________Please_Select_One_of_the_Tests_Above_to_Start"
+                ]
+            }, 
+            "iter_00000_step_00001_25_div.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_25_div.png", 
+                    "iter_00000_step_00000_25_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "9ZZ8bswd4SIJoVChoYYpYA==\n", 
+                    "height": 92, 
+                    "human_hash": "div_X780_Y1680_W2280_H92", 
+                    "tag_name": "div", 
+                    "text": "Copyright \u00a9 2021\n            - API Sandbox", 
+                    "width": 2280, 
+                    "x": 780, 
+                    "y": 1680
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Copyright_\u00a9_2021\n____________-_API_Sandbox"
+                ]
+            }, 
+            "iter_00000_step_00001_26_div.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_26_div.png", 
+                    "iter_00000_step_00000_26_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "Vq3RpDhaRNlkSPSRpFOapg==\n", 
+                    "height": 92, 
+                    "human_hash": "div_X780_Y128_W2280_H92", 
+                    "tag_name": "div", 
+                    "text": "Script API Testing Site", 
+                    "width": 2280, 
+                    "x": 780, 
+                    "y": 128
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Script_API_Testing_Site"
+                ]
+            }, 
+            "iter_00000_step_00001_2_i.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_2_i.png", 
+                    "iter_00000_step_00000_2_i.png"
+                ], 
+                "elem_info": {
+                    "class": "i", 
+                    "hash": "JhQkE9FRwiSG4GVZclYoCw==\n", 
+                    "height": 64, 
+                    "human_hash": "i_X810_Y134_W64_H64", 
+                    "tag_name": "i", 
+                    "text": "", 
+                    "width": 64, 
+                    "x": 810, 
+                    "y": 134
+                }, 
+                "tags": [
+                    "i", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00001_5_div.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_5_div.png", 
+                    "iter_00000_step_00000_5_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "f2ScyKQt5HwVZA2//IeeFQ==\n", 
+                    "height": 92, 
+                    "human_hash": "div_X780_Y128_W1140_H92", 
+                    "tag_name": "div", 
+                    "text": "Script API Testing Site", 
+                    "width": 1140, 
+                    "x": 780, 
+                    "y": 128
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Script_API_Testing_Site"
+                ]
+            }, 
+            "iter_00000_step_00003_16_div.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_16_div.png", 
+                    "iter_00000_step_00002_16_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "wmr1SB+YE6kowWukw8mPIg==\n", 
+                    "height": 298, 
+                    "human_hash": "div_X810_Y976_W2220_H298", 
+                    "tag_name": "div", 
+                    "text": "WAIT FOR JOB TO COMPLETE\n            \n            \n              \n                              \n                  \n                    Open Very Slow Modal", 
+                    "width": 2220, 
+                    "x": 810, 
+                    "y": 976
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "WAIT_FOR_JOB_TO_COMPLETE\n____________\n____________\n______________\n______________________________\n__________________\n____________________Open_Very_Slow_Modal"
+                ]
+            }, 
+            "iter_00000_step_00003_22_div.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_22_div.png", 
+                    "iter_00000_step_00002_22_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "XUBNubjKAfLaICrzyfAP3w==\n", 
+                    "height": 172, 
+                    "human_hash": "div_X812_Y1100_W2216_H172", 
+                    "tag_name": "div", 
+                    "text": "Open Very Slow Modal", 
+                    "width": 2216, 
+                    "x": 812, 
+                    "y": 1100
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Open_Very_Slow_Modal"
+                ]
+            }, 
+            "iter_00000_step_00003_27_div.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_27_div.png", 
+                    "iter_00000_step_00002_27_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "9kvupJvGrt+eNtaEO3lc5A==\n", 
+                    "height": 298, 
+                    "human_hash": "div_X780_Y976_W2280_H298", 
+                    "tag_name": "div", 
+                    "text": "WAIT FOR JOB TO COMPLETE\n            \n            \n              \n                              \n                  \n                    Open Very Slow Modal", 
+                    "width": 2280, 
+                    "x": 780, 
+                    "y": 976
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "WAIT_FOR_JOB_TO_COMPLETE\n____________\n____________\n______________\n______________________________\n__________________\n____________________Open_Very_Slow_Modal"
+                ]
+            }, 
+            "iter_00000_step_00004_0_div.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_0_div.png", 
+                    "iter_00000_step_00003_0_div.png", 
+                    "iter_00000_step_00002_0_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "KffkLPjpxs26CW8kCZOObg==\n", 
+                    "height": 298, 
+                    "human_hash": "div_X810_Y678_W2220_H298", 
+                    "tag_name": "div", 
+                    "text": "WAIT FOR TEMPLATE MATCH\n            \n              \n                \n                                \n                    Template Matched Button", 
+                    "width": 2220, 
+                    "x": 810, 
+                    "y": 678
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "WAIT_FOR_TEMPLATE_MATCH\n____________\n______________\n________________\n________________________________\n____________________Template_Matched_Button"
+                ]
+            }, 
+            "iter_00000_step_00004_10_a.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00004_10_a.png", 
+                    "iter_00000_step_00003_10_a.png", 
+                    "iter_00000_step_00002_10_a.png", 
+                    "iter_00000_step_00001_8_a.png", 
+                    "iter_00000_step_00000_8_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "VVGfkR3ZrGfXXIU0fDRV7g==\n", 
+                    "height": 80, 
+                    "human_hash": "a_X1644_Y16_W96_H80", 
+                    "tag_name": "a", 
+                    "text": "Wait", 
+                    "width": 96, 
+                    "x": 1644, 
+                    "y": 16
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Wait"
+                ]
+            }, 
+            "iter_00000_step_00004_11_a.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00004_11_a.png", 
+                    "iter_00000_step_00003_11_a.png", 
+                    "iter_00000_step_00002_11_a.png", 
+                    "iter_00000_step_00001_9_a.png", 
+                    "iter_00000_step_00000_9_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "5oIyny2V/5WYTStSwHgv/w==\n", 
+                    "height": 80, 
+                    "human_hash": "a_X1496_Y16_W116_H80", 
+                    "tag_name": "a", 
+                    "text": "Verify", 
+                    "width": 116, 
+                    "x": 1496, 
+                    "y": 16
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Verify"
+                ]
+            }, 
+            "iter_00000_step_00004_12_li.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00004_12_li.png", 
+                    "iter_00000_step_00003_12_li.png", 
+                    "iter_00000_step_00002_12_li.png", 
+                    "iter_00000_step_00001_10_li.png", 
+                    "iter_00000_step_00000_10_li.png"
+                ], 
+                "elem_info": {
+                    "class": "li", 
+                    "hash": "GBTw+1mR99+KNBxreqMGCA==\n", 
+                    "height": 80, 
+                    "human_hash": "li_X1756_Y16_W216_H80", 
+                    "tag_name": "li", 
+                    "text": "Tap Param", 
+                    "width": 216, 
+                    "x": 1756, 
+                    "y": 16
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "li"
+                ], 
+                "text": [
+                    "Tap_Param"
+                ]
+            }, 
+            "iter_00000_step_00004_13_div.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_13_div.png", 
+                    "iter_00000_step_00003_13_div.png", 
+                    "iter_00000_step_00002_13_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "37xkNy2EPglnggJsBbzMbA==\n", 
+                    "height": 122, 
+                    "human_hash": "div_X812_Y680_W2216_H122", 
+                    "tag_name": "div", 
+                    "text": "WAIT FOR TEMPLATE MATCH", 
+                    "width": 2216, 
+                    "x": 812, 
+                    "y": 680
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "WAIT_FOR_TEMPLATE_MATCH"
+                ]
+            }, 
+            "iter_00000_step_00004_14_a.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00004_14_a.png", 
+                    "iter_00000_step_00003_14_a.png", 
+                    "iter_00000_step_00002_14_a.png", 
+                    "iter_00000_step_00001_11_a.png", 
+                    "iter_00000_step_00000_11_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "KCCkk6Ri32B+v4L7ZkC+kw==\n", 
+                    "height": 80, 
+                    "human_hash": "a_X962_Y16_W250_H80", 
+                    "tag_name": "a", 
+                    "text": "Basic Gestures", 
+                    "width": 250, 
+                    "x": 962, 
+                    "y": 16
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Basic_Gestures"
+                ]
+            }, 
+            "iter_00000_step_00004_15_i.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00004_15_i.png", 
+                    "iter_00000_step_00003_15_i.png", 
+                    "iter_00000_step_00002_15_i.png", 
+                    "iter_00000_step_00001_12_i.png", 
+                    "iter_00000_step_00000_12_i.png"
+                ], 
+                "elem_info": {
+                    "class": "i", 
+                    "hash": "IbVZCG1cxIzmjjxit1YTOg==\n", 
+                    "height": 32, 
+                    "human_hash": "i_X2864_Y40_W40_H32", 
+                    "tag_name": "i", 
+                    "text": "", 
+                    "width": 40, 
+                    "x": 2864, 
+                    "y": 40
+                }, 
+                "tags": [
+                    "i", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00004_16_div.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00004_16_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "wmr1SB+YE6kowWukw8mPIg==\n", 
+                    "height": 298, 
+                    "human_hash": "div_X810_Y976_W2220_H298", 
+                    "tag_name": "div", 
+                    "text": "WAIT FOR JOB TO COMPLETE\n            \n            \n              \n                              \n                  \n                    Open Very Slow Modal", 
+                    "width": 2220, 
+                    "x": 810, 
+                    "y": 976
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "WAIT_FOR_JOB_TO_COMPLETE\n____________\n____________\n______________\n______________________________\n__________________\n____________________Open_Very_Slow_Modal"
+                ]
+            }, 
+            "iter_00000_step_00004_17_a.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00004_17_a.png", 
+                    "iter_00000_step_00003_17_a.png", 
+                    "iter_00000_step_00002_17_a.png", 
+                    "iter_00000_step_00001_13_a.png", 
+                    "iter_00000_step_00000_13_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "hnOzeTnS4WLqrdaRKq55fA==\n", 
+                    "height": 80, 
+                    "human_hash": "a_X1244_Y16_W220_H80", 
+                    "tag_name": "a", 
+                    "text": "Find Element", 
+                    "width": 220, 
+                    "x": 1244, 
+                    "y": 16
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Find_Element"
+                ]
+            }, 
+            "iter_00000_step_00004_18_li.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00004_18_li.png", 
+                    "iter_00000_step_00003_18_li.png", 
+                    "iter_00000_step_00002_18_li.png", 
+                    "iter_00000_step_00001_14_li.png", 
+                    "iter_00000_step_00000_14_li.png"
+                ], 
+                "elem_info": {
+                    "class": "li", 
+                    "hash": "2U6WnjMp1d7CrZerxp+bGQ==\n", 
+                    "height": 80, 
+                    "human_hash": "li_X1628_Y16_W128_H80", 
+                    "tag_name": "li", 
+                    "text": "Wait", 
+                    "width": 128, 
+                    "x": 1628, 
+                    "y": 16
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "li"
+                ], 
+                "text": [
+                    "Wait"
+                ]
+            }, 
+            "iter_00000_step_00004_19_div.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_19_div.png", 
+                    "iter_00000_step_00003_19_div.png", 
+                    "iter_00000_step_00002_19_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "qY7mW0//rg/HmGUfvXCFRg==\n", 
+                    "height": 80, 
+                    "human_hash": "div_X780_Y16_W2280_H80", 
+                    "tag_name": "div", 
+                    "text": "Home\n    \n      \n    \n    \n      \n        \n          Basic Gestures\n        \n        \n          Find Element\n        \n        \n          Verify\n        \n        \n          Wait\n        \n        \n          Tap Param\n        \n        \n          Input Param\n        \n           \n      \n\n        \n          \n            \n               Profile\n            \n            \n              \n                 Profile\n              \n              \n                 Settings\n              \n            \n          \n          \n            \n               Logout", 
+                    "width": 2280, 
+                    "x": 780, 
+                    "y": 16
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Home\n____\n______\n____\n____\n______\n________\n__________Basic_Gestures\n________\n________\n__________Find_Element\n________\n________\n__________Verify\n________\n________\n__________Wait\n________\n________\n__________Tap_Param\n________\n________\n__________Input_Param\n________\n___________\n______\n\n________\n__________\n____________\n_______________Profile\n____________\n____________\n______________\n_________________Profile\n______________\n______________\n_________________Settings\n______________\n____________\n__________\n__________\n____________\n_______________Logout"
+                ]
+            }, 
+            "iter_00000_step_00004_1_li.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_1_li.png", 
+                    "iter_00000_step_00003_1_li.png", 
+                    "iter_00000_step_00002_1_li.png"
+                ], 
+                "elem_info": {
+                    "class": "li", 
+                    "hash": "tEM6mnw+JHgO3M1UHzZ6Zw==\n", 
+                    "height": 80, 
+                    "human_hash": "li_X2620_Y16_W196_H80", 
+                    "tag_name": "li", 
+                    "text": "Profile\n            \n            \n              \n                 Profile\n              \n              \n                 Settings", 
+                    "width": 196, 
+                    "x": 2620, 
+                    "y": 16
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "li"
+                ], 
+                "text": [
+                    "Profile\n____________\n____________\n______________\n_________________Profile\n______________\n______________\n_________________Settings"
+                ]
+            }, 
+            "iter_00000_step_00004_20_a.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00004_20_a.png", 
+                    "iter_00000_step_00003_20_a.png", 
+                    "iter_00000_step_00002_20_a.png", 
+                    "iter_00000_step_00001_16_a.png", 
+                    "iter_00000_step_00000_16_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "axGUhgQaHZ1mMrkpuZnijw==\n", 
+                    "height": 80, 
+                    "human_hash": "a_X2620_Y16_W196_H80", 
+                    "tag_name": "a", 
+                    "text": "Profile", 
+                    "width": 196, 
+                    "x": 2620, 
+                    "y": 16
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Profile"
+                ]
+            }, 
+            "iter_00000_step_00004_21_div.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_21_div.png", 
+                    "iter_00000_step_00003_21_div.png", 
+                    "iter_00000_step_00002_21_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "8tRFCGAL5rEMfUAdGgRmCg==\n", 
+                    "height": 172, 
+                    "human_hash": "div_X812_Y802_W2216_H172", 
+                    "tag_name": "div", 
+                    "text": "Template Matched Button", 
+                    "width": 2216, 
+                    "x": 812, 
+                    "y": 802
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Template_Matched_Button"
+                ]
+            }, 
+            "iter_00000_step_00004_22_div.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00004_22_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "XUBNubjKAfLaICrzyfAP3w==\n", 
+                    "height": 172, 
+                    "human_hash": "div_X812_Y1100_W2216_H172", 
+                    "tag_name": "div", 
+                    "text": "Open Very Slow Modal", 
+                    "width": 2216, 
+                    "x": 812, 
+                    "y": 1100
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Open_Very_Slow_Modal"
+                ]
+            }, 
+            "iter_00000_step_00004_23_li.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00004_23_li.png", 
+                    "iter_00000_step_00003_23_li.png", 
+                    "iter_00000_step_00002_23_li.png", 
+                    "iter_00000_step_00001_17_li.png", 
+                    "iter_00000_step_00000_17_li.png"
+                ], 
+                "elem_info": {
+                    "class": "li", 
+                    "hash": "n1EOmU0/cl7wuoXQGNwVNg==\n", 
+                    "height": 80, 
+                    "human_hash": "li_X946_Y16_W282_H80", 
+                    "tag_name": "li", 
+                    "text": "Basic Gestures", 
+                    "width": 282, 
+                    "x": 946, 
+                    "y": 16
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "li"
+                ], 
+                "text": [
+                    "Basic_Gestures"
+                ]
+            }, 
+            "iter_00000_step_00004_24_button.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_24_button.png", 
+                    "iter_00000_step_00003_24_button.png", 
+                    "iter_00000_step_00002_24_button.png"
+                ], 
+                "elem_info": {
+                    "class": "button", 
+                    "hash": "e8E9gKxc0jr5nCjZi2+nPQ==\n", 
+                    "height": 76, 
+                    "human_hash": "button_X852_Y560_W252_H76", 
+                    "tag_name": "button", 
+                    "text": "Wait for Label", 
+                    "width": 252, 
+                    "x": 852, 
+                    "y": 560
+                }, 
+                "tags": [
+                    "button", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Wait_for_Label"
+                ]
+            }, 
+            "iter_00000_step_00004_25_a.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00004_25_a.png", 
+                    "iter_00000_step_00003_25_a.png", 
+                    "iter_00000_step_00002_25_a.png", 
+                    "iter_00000_step_00001_18_a.png", 
+                    "iter_00000_step_00000_18_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "SrDVdcKJ5kpwN9UBwBbl7Q==\n", 
+                    "height": 80, 
+                    "human_hash": "a_X1988_Y16_W206_H80", 
+                    "tag_name": "a", 
+                    "text": "Input Param", 
+                    "width": 206, 
+                    "x": 1988, 
+                    "y": 16
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Input_Param"
+                ]
+            }, 
+            "iter_00000_step_00004_26_li.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00004_26_li.png", 
+                    "iter_00000_step_00003_26_li.png", 
+                    "iter_00000_step_00002_26_li.png", 
+                    "iter_00000_step_00001_19_li.png", 
+                    "iter_00000_step_00000_19_li.png"
+                ], 
+                "elem_info": {
+                    "class": "li", 
+                    "hash": "aKtd5tayWf8eFkGXaQIgvQ==\n", 
+                    "height": 80, 
+                    "human_hash": "li_X1228_Y16_W252_H80", 
+                    "tag_name": "li", 
+                    "text": "Find Element", 
+                    "width": 252, 
+                    "x": 1228, 
+                    "y": 16
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "li"
+                ], 
+                "text": [
+                    "Find_Element"
+                ]
+            }, 
+            "iter_00000_step_00004_27_div.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00004_27_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "9kvupJvGrt+eNtaEO3lc5A==\n", 
+                    "height": 298, 
+                    "human_hash": "div_X780_Y976_W2280_H298", 
+                    "tag_name": "div", 
+                    "text": "WAIT FOR JOB TO COMPLETE\n            \n            \n              \n                              \n                  \n                    Open Very Slow Modal", 
+                    "width": 2280, 
+                    "x": 780, 
+                    "y": 976
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "WAIT_FOR_JOB_TO_COMPLETE\n____________\n____________\n______________\n______________________________\n__________________\n____________________Open_Very_Slow_Modal"
+                ]
+            }, 
+            "iter_00000_step_00004_28_div.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_28_div.png", 
+                    "iter_00000_step_00003_28_div.png", 
+                    "iter_00000_step_00002_28_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "7QNQFSKhL+oDt9/jCtQFzw==\n", 
+                    "height": 122, 
+                    "human_hash": "div_X812_Y382_W2216_H122", 
+                    "tag_name": "div", 
+                    "text": "WAIT FOR LABEL", 
+                    "width": 2216, 
+                    "x": 812, 
+                    "y": 382
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "WAIT_FOR_LABEL"
+                ]
+            }, 
+            "iter_00000_step_00004_29_div.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_29_div.png", 
+                    "iter_00000_step_00003_29_div.png", 
+                    "iter_00000_step_00002_29_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "Ex6xCK5WkI1j7i/ij4fxAQ==\n", 
+                    "height": 76, 
+                    "human_hash": "div_X822_Y560_W732_H76", 
+                    "tag_name": "div", 
+                    "text": "Wait for Label", 
+                    "width": 732, 
+                    "x": 822, 
+                    "y": 560
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Wait_for_Label"
+                ]
+            }, 
+            "iter_00000_step_00004_2_i.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_2_i.png", 
+                    "iter_00000_step_00003_2_i.png", 
+                    "iter_00000_step_00002_2_i.png"
+                ], 
+                "elem_info": {
+                    "class": "i", 
+                    "hash": "JhQkE9FRwiSG4GVZclYoCw==\n", 
+                    "height": 64, 
+                    "human_hash": "i_X810_Y134_W64_H64", 
+                    "tag_name": "i", 
+                    "text": "", 
+                    "width": 64, 
+                    "x": 810, 
+                    "y": 134
+                }, 
+                "tags": [
+                    "i", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00004_30_div.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_30_div.png", 
+                    "iter_00000_step_00003_30_div.png", 
+                    "iter_00000_step_00002_30_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "HCKjzWkgzJjNc+ainu4hcw==\n", 
+                    "height": 298, 
+                    "human_hash": "div_X780_Y678_W2280_H298", 
+                    "tag_name": "div", 
+                    "text": "WAIT FOR TEMPLATE MATCH\n            \n              \n                \n                                \n                    Template Matched Button", 
+                    "width": 2280, 
+                    "x": 780, 
+                    "y": 678
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "WAIT_FOR_TEMPLATE_MATCH\n____________\n______________\n________________\n________________________________\n____________________Template_Matched_Button"
+                ]
+            }, 
+            "iter_00000_step_00004_31_div.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_31_div.png", 
+                    "iter_00000_step_00003_31_div.png", 
+                    "iter_00000_step_00002_31_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "gH+dCK9O18l82QVCXlvd2A==\n", 
+                    "height": 76, 
+                    "human_hash": "div_X822_Y1156_W732_H76", 
+                    "tag_name": "div", 
+                    "text": "Open Very Slow Modal", 
+                    "width": 732, 
+                    "x": 822, 
+                    "y": 1156
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Open_Very_Slow_Modal"
+                ]
+            }, 
+            "iter_00000_step_00004_32_div.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_32_div.png", 
+                    "iter_00000_step_00003_32_div.png", 
+                    "iter_00000_step_00002_32_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "cRgzP63OdZ8AOkJnBSdh5g==\n", 
+                    "height": 172, 
+                    "human_hash": "div_X812_Y504_W2216_H172", 
+                    "tag_name": "div", 
+                    "text": "Wait for Label", 
+                    "width": 2216, 
+                    "x": 812, 
+                    "y": 504
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Wait_for_Label"
+                ]
+            }, 
+            "iter_00000_step_00004_33_a.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00004_33_a.png", 
+                    "iter_00000_step_00003_33_a.png", 
+                    "iter_00000_step_00002_33_a.png", 
+                    "iter_00000_step_00001_21_a.png", 
+                    "iter_00000_step_00000_21_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "f2l0DsDTe21g5Plt89Pqkw==\n", 
+                    "height": 80, 
+                    "human_hash": "a_X810_Y16_W104_H80", 
+                    "tag_name": "a", 
+                    "text": "Home", 
+                    "width": 104, 
+                    "x": 810, 
+                    "y": 16
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Home"
+                ]
+            }, 
+            "iter_00000_step_00004_34_div.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_34_div.png", 
+                    "iter_00000_step_00003_34_div.png", 
+                    "iter_00000_step_00002_34_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "2xgDj7Tr7eMMOHZJDBoULA==\n", 
+                    "height": 92, 
+                    "human_hash": "div_X822_Y1140_W2196_H92", 
+                    "tag_name": "div", 
+                    "text": "Open Very Slow Modal", 
+                    "width": 2196, 
+                    "x": 822, 
+                    "y": 1140
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Open_Very_Slow_Modal"
+                ]
+            }, 
+            "iter_00000_step_00004_35_div.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_35_div.png", 
+                    "iter_00000_step_00003_35_div.png", 
+                    "iter_00000_step_00002_35_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "uyy6v2Mb5xA+cB4aEXMX8w==\n", 
+                    "height": 84, 
+                    "human_hash": "div_X1554_Y552_W1464_H84", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 1464, 
+                    "x": 1554, 
+                    "y": 552
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00004_36_li.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00004_36_li.png", 
+                    "iter_00000_step_00003_36_li.png", 
+                    "iter_00000_step_00002_36_li.png", 
+                    "iter_00000_step_00001_24_li.png", 
+                    "iter_00000_step_00000_24_li.png"
+                ], 
+                "elem_info": {
+                    "class": "li", 
+                    "hash": "eeso1e1PwxRAJ7dejc3TgA==\n", 
+                    "height": 80, 
+                    "human_hash": "li_X2848_Y16_W182_H80", 
+                    "tag_name": "li", 
+                    "text": "Logout", 
+                    "width": 182, 
+                    "x": 2848, 
+                    "y": 16
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "li"
+                ], 
+                "text": [
+                    "Logout"
+                ]
+            }, 
+            "iter_00000_step_00004_37_div.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_37_div.png", 
+                    "iter_00000_step_00003_37_div.png", 
+                    "iter_00000_step_00002_37_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "0dtT2eokR+g2dL3KTnJU2Q==\n", 
+                    "height": 76, 
+                    "human_hash": "div_X822_Y858_W732_H76", 
+                    "tag_name": "div", 
+                    "text": "Template Matched Button", 
+                    "width": 732, 
+                    "x": 822, 
+                    "y": 858
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Template_Matched_Button"
+                ]
+            }, 
+            "iter_00000_step_00004_38_div.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_38_div.png", 
+                    "iter_00000_step_00003_38_div.png", 
+                    "iter_00000_step_00002_38_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "yGvq4LxijM5MKXE16V5vag==\n", 
+                    "height": 84, 
+                    "human_hash": "div_X1554_Y850_W1464_H84", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 1464, 
+                    "x": 1554, 
+                    "y": 850
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00004_39_div.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_39_div.png", 
+                    "iter_00000_step_00003_39_div.png", 
+                    "iter_00000_step_00002_39_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "rCNOagKyyjGuacOpIgpeRQ==\n", 
+                    "height": 92, 
+                    "human_hash": "div_X780_Y128_W2280_H92", 
+                    "tag_name": "div", 
+                    "text": "Wait", 
+                    "width": 2280, 
+                    "x": 780, 
+                    "y": 128
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Wait"
+                ]
+            }, 
+            "iter_00000_step_00004_3_a.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00004_3_a.png", 
+                    "iter_00000_step_00003_3_a.png", 
+                    "iter_00000_step_00002_3_a.png", 
+                    "iter_00000_step_00001_3_a.png", 
+                    "iter_00000_step_00000_3_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "NCpfuT9kyN91DFU2oDtEPQ==\n", 
+                    "height": 80, 
+                    "human_hash": "a_X1772_Y16_W184_H80", 
+                    "tag_name": "a", 
+                    "text": "Tap Param", 
+                    "width": 184, 
+                    "x": 1772, 
+                    "y": 16
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Tap_Param"
+                ]
+            }, 
+            "iter_00000_step_00004_40_button.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_40_button.png", 
+                    "iter_00000_step_00003_40_button.png", 
+                    "iter_00000_step_00002_40_button.png"
+                ], 
+                "elem_info": {
+                    "class": "button", 
+                    "hash": "IYnqcE7l8mHwI/qU/Y5Lbw==\n", 
+                    "height": 76, 
+                    "human_hash": "button_X852_Y858_W426_H76", 
+                    "tag_name": "button", 
+                    "text": "Template Matched Button", 
+                    "width": 426, 
+                    "x": 852, 
+                    "y": 858
+                }, 
+                "tags": [
+                    "button", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Template_Matched_Button"
+                ]
+            }, 
+            "iter_00000_step_00004_41_div.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_41_div.png", 
+                    "iter_00000_step_00003_41_div.png", 
+                    "iter_00000_step_00002_41_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "CvFZxG7qxJOqEiisWfjjPA==\n", 
+                    "height": 122, 
+                    "human_hash": "div_X812_Y978_W2216_H122", 
+                    "tag_name": "div", 
+                    "text": "WAIT FOR JOB TO COMPLETE", 
+                    "width": 2216, 
+                    "x": 812, 
+                    "y": 978
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "WAIT_FOR_JOB_TO_COMPLETE"
+                ]
+            }, 
+            "iter_00000_step_00004_42_div.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_42_div.png", 
+                    "iter_00000_step_00003_42_div.png", 
+                    "iter_00000_step_00002_42_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "qKP0+gvoJp3xdr/xKL0zGg==\n", 
+                    "height": 92, 
+                    "human_hash": "div_X822_Y842_W2196_H92", 
+                    "tag_name": "div", 
+                    "text": "Template Matched Button", 
+                    "width": 2196, 
+                    "x": 822, 
+                    "y": 842
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Template_Matched_Button"
+                ]
+            }, 
+            "iter_00000_step_00004_43_div.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_43_div.png", 
+                    "iter_00000_step_00003_43_div.png", 
+                    "iter_00000_step_00002_43_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "uAufzHLLlxp3EZ/SshHrUw==\n", 
+                    "height": 84, 
+                    "human_hash": "div_X1554_Y1148_W1464_H84", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 1464, 
+                    "x": 1554, 
+                    "y": 1148
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00004_44_div.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_44_div.png", 
+                    "iter_00000_step_00003_44_div.png", 
+                    "iter_00000_step_00002_44_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "jsN+3/pJkpggj9oosx8TtA==\n", 
+                    "height": 298, 
+                    "human_hash": "div_X780_Y380_W2280_H298", 
+                    "tag_name": "div", 
+                    "text": "WAIT FOR LABEL\n            \n              \n                \n                                \n                    Wait for Label", 
+                    "width": 2280, 
+                    "x": 780, 
+                    "y": 380
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "WAIT_FOR_LABEL\n____________\n______________\n________________\n________________________________\n____________________Wait_for_Label"
+                ]
+            }, 
+            "iter_00000_step_00004_45_li.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00004_45_li.png", 
+                    "iter_00000_step_00003_45_li.png", 
+                    "iter_00000_step_00002_45_li.png", 
+                    "iter_00000_step_00001_27_li.png", 
+                    "iter_00000_step_00000_27_li.png"
+                ], 
+                "elem_info": {
+                    "class": "li", 
+                    "hash": "XflKRAYhMxqlsbQ7GBg9Zw==\n", 
+                    "height": 80, 
+                    "human_hash": "li_X1972_Y16_W238_H80", 
+                    "tag_name": "li", 
+                    "text": "Input Param", 
+                    "width": 238, 
+                    "x": 1972, 
+                    "y": 16
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "li"
+                ], 
+                "text": [
+                    "Input_Param"
+                ]
+            }, 
+            "iter_00000_step_00004_46_div.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_46_div.png", 
+                    "iter_00000_step_00003_46_div.png", 
+                    "iter_00000_step_00002_46_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "Yb+EiHD+0uCUWKSgzxXR5w==\n", 
+                    "height": 298, 
+                    "human_hash": "div_X810_Y380_W2220_H298", 
+                    "tag_name": "div", 
+                    "text": "WAIT FOR LABEL\n            \n              \n                \n                                \n                    Wait for Label", 
+                    "width": 2220, 
+                    "x": 810, 
+                    "y": 380
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "WAIT_FOR_LABEL\n____________\n______________\n________________\n________________________________\n____________________Wait_for_Label"
+                ]
+            }, 
+            "iter_00000_step_00004_4_a.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00004_4_a.png", 
+                    "iter_00000_step_00003_4_a.png", 
+                    "iter_00000_step_00002_4_a.png", 
+                    "iter_00000_step_00001_4_a.png", 
+                    "iter_00000_step_00000_4_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "5zJiUGQ+F2Er7AZFZWhmjg==\n", 
+                    "height": 80, 
+                    "human_hash": "a_X2848_Y16_W182_H80", 
+                    "tag_name": "a", 
+                    "text": "Logout", 
+                    "width": 182, 
+                    "x": 2848, 
+                    "y": 16
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Logout"
+                ]
+            }, 
+            "iter_00000_step_00004_5_button.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_5_button.png", 
+                    "iter_00000_step_00003_5_button.png", 
+                    "iter_00000_step_00002_5_button.png"
+                ], 
+                "elem_info": {
+                    "class": "button", 
+                    "hash": "09FcUZ8Phsb+rwWZT0X0LA==\n", 
+                    "height": 76, 
+                    "human_hash": "button_X852_Y1156_W380_H76", 
+                    "tag_name": "button", 
+                    "text": "Open Very Slow Modal", 
+                    "width": 380, 
+                    "x": 852, 
+                    "y": 1156
+                }, 
+                "tags": [
+                    "button", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Open_Very_Slow_Modal"
+                ]
+            }, 
+            "iter_00000_step_00004_6_div.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_6_div.png", 
+                    "iter_00000_step_00003_6_div.png", 
+                    "iter_00000_step_00002_6_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "HuZIwnq7i9doUgDeHad5Mw==\n", 
+                    "height": 92, 
+                    "human_hash": "div_X780_Y128_W1140_H92", 
+                    "tag_name": "div", 
+                    "text": "Wait", 
+                    "width": 1140, 
+                    "x": 780, 
+                    "y": 128
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Wait"
+                ]
+            }, 
+            "iter_00000_step_00004_7_div.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00004_7_div.png", 
+                    "iter_00000_step_00003_7_div.png", 
+                    "iter_00000_step_00002_7_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "FNGIm1vLzxXs2GcI0ZHGDA==\n", 
+                    "height": 92, 
+                    "human_hash": "div_X822_Y544_W2196_H92", 
+                    "tag_name": "div", 
+                    "text": "Wait for Label", 
+                    "width": 2196, 
+                    "x": 822, 
+                    "y": 544
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Wait_for_Label"
+                ]
+            }, 
+            "iter_00000_step_00004_8_i.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00004_8_i.png", 
+                    "iter_00000_step_00003_8_i.png", 
+                    "iter_00000_step_00002_8_i.png", 
+                    "iter_00000_step_00001_6_i.png", 
+                    "iter_00000_step_00000_6_i.png"
+                ], 
+                "elem_info": {
+                    "class": "i", 
+                    "hash": "7J7JhntbvwhIu2okgzOFNw==\n", 
+                    "height": 32, 
+                    "human_hash": "i_X2636_Y40_W28_H32", 
+                    "tag_name": "i", 
+                    "text": "", 
+                    "width": 28, 
+                    "x": 2636, 
+                    "y": 40
+                }, 
+                "tags": [
+                    "i", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00004_9_li.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00004_9_li.png", 
+                    "iter_00000_step_00003_9_li.png", 
+                    "iter_00000_step_00002_9_li.png", 
+                    "iter_00000_step_00001_7_li.png", 
+                    "iter_00000_step_00000_7_li.png"
+                ], 
+                "elem_info": {
+                    "class": "li", 
+                    "hash": "IqGv2lMW8hsIDSIaduGw6g==\n", 
+                    "height": 80, 
+                    "human_hash": "li_X1480_Y16_W148_H80", 
+                    "tag_name": "li", 
+                    "text": "Verify", 
+                    "width": 148, 
+                    "x": 1480, 
+                    "y": 16
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "li"
+                ], 
+                "text": [
+                    "Verify"
+                ]
+            }, 
+            "iter_00000_step_00005_0_button.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_0_button.png"
+                ], 
+                "elem_info": {
+                    "class": "button", 
+                    "hash": "5Pfwj6DLU76GiByZUUseiA==\n", 
+                    "height": 112, 
+                    "human_hash": "button_X2322_Y58_W96_H112", 
+                    "tag_name": "button", 
+                    "text": "\u00d7", 
+                    "width": 96, 
+                    "x": 2322, 
+                    "y": 58
+                }, 
+                "tags": [
+                    "button", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "\u00d7"
+                ]
+            }, 
+            "iter_00000_step_00005_1_div.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_1_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "WDE6GxfOqMIj90bpDrKfQQ==\n", 
+                    "height": 126, 
+                    "human_hash": "div_X1422_Y58_W996_H126", 
+                    "tag_name": "div", 
+                    "text": "Slow Modal says:\n        \n          \u00d7", 
+                    "width": 996, 
+                    "x": 1422, 
+                    "y": 58
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Slow_Modal_says:\n________\n__________\u00d7"
+                ]
+            }, 
+            "iter_00000_step_00005_2_div.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_2_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "HspRacnXsLZh1EovQ1LVPQ==\n", 
+                    "height": 160, 
+                    "human_hash": "div_X1422_Y184_W996_H160", 
+                    "tag_name": "div", 
+                    "text": "Sorry I'm Late. Thanks for waiting on me. Now you can close me!", 
+                    "width": 996, 
+                    "x": 1422, 
+                    "y": 184
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Sorry_I'm_Late._Thanks_for_waiting_on_me._Now_you_can_close_me!"
+                ]
+            }, 
+            "iter_00000_step_00005_3_button.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_3_button.png"
+                ], 
+                "elem_info": {
+                    "class": "button", 
+                    "hash": "7oSEZdeyMsrQi9jE/ZJGNQ==\n", 
+                    "height": 76, 
+                    "human_hash": "button_X2098_Y378_W288_H76", 
+                    "tag_name": "button", 
+                    "text": "COMPLETE JOB", 
+                    "width": 288, 
+                    "x": 2098, 
+                    "y": 378
+                }, 
+                "tags": [
+                    "button", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "COMPLETE_JOB"
+                ]
+            }, 
+            "iter_00000_step_00005_4_div.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_4_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "5BlTZ2nPQrJ89z5kZQetBw==\n", 
+                    "height": 1868, 
+                    "human_hash": "div_X0_Y0_W3840_H1868", 
+                    "tag_name": "div", 
+                    "text": "Slow Modal says:\n        \n          \u00d7\n        \n      \n      \n        Sorry I'm Late. Thanks for waiting on me. Now you can close me!\n      \n      \n        COMPLETE JOB", 
+                    "width": 3840, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Slow_Modal_says:\n________\n__________\u00d7\n________\n______\n______\n________Sorry_I'm_Late._Thanks_for_waiting_on_me._Now_you_can_close_me!\n______\n______\n________COMPLETE_JOB"
+                ]
+            }, 
+            "iter_00000_step_00005_5_span.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_5_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "NPlaO1YPeIvuSdblf9r0Pw==\n", 
+                    "height": 56, 
+                    "human_hash": "span_X2354_Y86_W32_H56", 
+                    "tag_name": "span", 
+                    "text": "\u00d7", 
+                    "width": 32, 
+                    "x": 2354, 
+                    "y": 86
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "\u00d7"
+                ]
+            }, 
+            "iter_00000_step_00005_6_div.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_6_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "TScChNFKzNJXujS7tbhrbQ==\n", 
+                    "height": 142, 
+                    "human_hash": "div_X1422_Y344_W996_H142", 
+                    "tag_name": "div", 
+                    "text": "COMPLETE JOB", 
+                    "width": 996, 
+                    "x": 1422, 
+                    "y": 344
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "COMPLETE_JOB"
+                ]
+            }, 
+            "iter_00000_step_00005_7_div.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_7_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "xXHxDd6OJRgyIbSyyk+ucQ==\n", 
+                    "height": 432, 
+                    "human_hash": "div_X1420_Y56_W1000_H432", 
+                    "tag_name": "div", 
+                    "text": "Slow Modal says:\n        \n          \u00d7\n        \n      \n      \n        Sorry I'm Late. Thanks for waiting on me. Now you can close me!\n      \n      \n        COMPLETE JOB", 
+                    "width": 1000, 
+                    "x": 1420, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Slow_Modal_says:\n________\n__________\u00d7\n________\n______\n______\n________Sorry_I'm_Late._Thanks_for_waiting_on_me._Now_you_can_close_me!\n______\n______\n________COMPLETE_JOB"
+                ]
+            }
+        }, 
+        "sorted_elems": [
+            "iter_00000_step_00005_4_div.png", 
+            "iter_00000_step_00001_23_div.png", 
+            "iter_00000_step_00004_30_div.png", 
+            "iter_00000_step_00004_27_div.png", 
+            "iter_00000_step_00004_44_div.png", 
+            "iter_00000_step_00003_27_div.png", 
+            "iter_00000_step_00004_0_div.png", 
+            "iter_00000_step_00003_16_div.png", 
+            "iter_00000_step_00004_16_div.png", 
+            "iter_00000_step_00004_46_div.png", 
+            "iter_00000_step_00005_7_div.png", 
+            "iter_00000_step_00004_21_div.png", 
+            "iter_00000_step_00004_22_div.png", 
+            "iter_00000_step_00003_22_div.png", 
+            "iter_00000_step_00004_32_div.png", 
+            "iter_00000_step_00004_28_div.png", 
+            "iter_00000_step_00004_41_div.png", 
+            "iter_00000_step_00004_13_div.png", 
+            "iter_00000_step_00001_20_div.png", 
+            "iter_00000_step_00001_25_div.png", 
+            "iter_00000_step_00001_26_div.png", 
+            "iter_00000_step_00004_39_div.png", 
+            "iter_00000_step_00004_7_div.png", 
+            "iter_00000_step_00004_42_div.png", 
+            "iter_00000_step_00004_34_div.png", 
+            "iter_00000_step_00001_15_div.png", 
+            "iter_00000_step_00004_19_div.png", 
+            "iter_00000_step_00005_2_div.png", 
+            "iter_00000_step_00005_6_div.png", 
+            "iter_00000_step_00005_1_div.png", 
+            "iter_00000_step_00004_35_div.png", 
+            "iter_00000_step_00004_43_div.png", 
+            "iter_00000_step_00004_38_div.png", 
+            "iter_00000_step_00001_0_h1.png", 
+            "iter_00000_step_00001_5_div.png", 
+            "iter_00000_step_00004_6_div.png", 
+            "iter_00000_step_00004_37_div.png", 
+            "iter_00000_step_00004_31_div.png", 
+            "iter_00000_step_00004_29_div.png", 
+            "iter_00000_step_00004_40_button.png", 
+            "iter_00000_step_00004_5_button.png", 
+            "iter_00000_step_00004_23_li.png", 
+            "iter_00000_step_00005_3_button.png", 
+            "iter_00000_step_00004_26_li.png", 
+            "iter_00000_step_00004_14_a.png", 
+            "iter_00000_step_00004_24_button.png", 
+            "iter_00000_step_00004_45_li.png", 
+            "iter_00000_step_00004_17_a.png", 
+            "iter_00000_step_00004_12_li.png", 
+            "iter_00000_step_00004_25_a.png", 
+            "iter_00000_step_00004_20_a.png", 
+            "iter_00000_step_00004_1_li.png", 
+            "iter_00000_step_00001_1_li.png", 
+            "iter_00000_step_00004_3_a.png", 
+            "iter_00000_step_00004_4_a.png", 
+            "iter_00000_step_00004_36_li.png", 
+            "iter_00000_step_00004_9_li.png", 
+            "iter_00000_step_00005_0_button.png", 
+            "iter_00000_step_00004_18_li.png", 
+            "iter_00000_step_00004_11_a.png", 
+            "iter_00000_step_00004_33_a.png", 
+            "iter_00000_step_00004_10_a.png", 
+            "iter_00000_step_00001_2_i.png", 
+            "iter_00000_step_00004_2_i.png", 
+            "iter_00000_step_00001_22_span.png", 
+            "iter_00000_step_00005_5_span.png", 
+            "iter_00000_step_00004_15_i.png", 
+            "iter_00000_step_00004_8_i.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00001_0_h1.png": [
+                "iter_00000_step_00001_0_h1.png", 
+                "iter_00000_step_00000_0_h1.png"
+            ], 
+            "iter_00000_step_00001_15_div.png": [
+                "iter_00000_step_00001_15_div.png", 
+                "iter_00000_step_00000_15_div.png"
+            ], 
+            "iter_00000_step_00001_1_li.png": [
+                "iter_00000_step_00001_1_li.png", 
+                "iter_00000_step_00000_1_li.png"
+            ], 
+            "iter_00000_step_00001_20_div.png": [
+                "iter_00000_step_00001_20_div.png", 
+                "iter_00000_step_00000_20_div.png"
+            ], 
+            "iter_00000_step_00001_22_span.png": [
+                "iter_00000_step_00001_22_span.png", 
+                "iter_00000_step_00000_22_span.png"
+            ], 
+            "iter_00000_step_00001_23_div.png": [
+                "iter_00000_step_00001_23_div.png", 
+                "iter_00000_step_00000_23_div.png"
+            ], 
+            "iter_00000_step_00001_25_div.png": [
+                "iter_00000_step_00001_25_div.png", 
+                "iter_00000_step_00000_25_div.png"
+            ], 
+            "iter_00000_step_00001_26_div.png": [
+                "iter_00000_step_00001_26_div.png", 
+                "iter_00000_step_00000_26_div.png"
+            ], 
+            "iter_00000_step_00001_2_i.png": [
+                "iter_00000_step_00001_2_i.png", 
+                "iter_00000_step_00000_2_i.png"
+            ], 
+            "iter_00000_step_00001_5_div.png": [
+                "iter_00000_step_00001_5_div.png", 
+                "iter_00000_step_00000_5_div.png"
+            ], 
+            "iter_00000_step_00003_16_div.png": [
+                "iter_00000_step_00003_16_div.png", 
+                "iter_00000_step_00002_16_div.png"
+            ], 
+            "iter_00000_step_00003_22_div.png": [
+                "iter_00000_step_00003_22_div.png", 
+                "iter_00000_step_00002_22_div.png"
+            ], 
+            "iter_00000_step_00003_27_div.png": [
+                "iter_00000_step_00003_27_div.png", 
+                "iter_00000_step_00002_27_div.png"
+            ], 
+            "iter_00000_step_00004_0_div.png": [
+                "iter_00000_step_00004_0_div.png", 
+                "iter_00000_step_00003_0_div.png", 
+                "iter_00000_step_00002_0_div.png"
+            ], 
+            "iter_00000_step_00004_10_a.png": [
+                "iter_00000_step_00004_10_a.png", 
+                "iter_00000_step_00003_10_a.png", 
+                "iter_00000_step_00002_10_a.png", 
+                "iter_00000_step_00001_8_a.png", 
+                "iter_00000_step_00000_8_a.png"
+            ], 
+            "iter_00000_step_00004_11_a.png": [
+                "iter_00000_step_00004_11_a.png", 
+                "iter_00000_step_00003_11_a.png", 
+                "iter_00000_step_00002_11_a.png", 
+                "iter_00000_step_00001_9_a.png", 
+                "iter_00000_step_00000_9_a.png"
+            ], 
+            "iter_00000_step_00004_12_li.png": [
+                "iter_00000_step_00004_12_li.png", 
+                "iter_00000_step_00003_12_li.png", 
+                "iter_00000_step_00002_12_li.png", 
+                "iter_00000_step_00001_10_li.png", 
+                "iter_00000_step_00000_10_li.png"
+            ], 
+            "iter_00000_step_00004_13_div.png": [
+                "iter_00000_step_00004_13_div.png", 
+                "iter_00000_step_00003_13_div.png", 
+                "iter_00000_step_00002_13_div.png"
+            ], 
+            "iter_00000_step_00004_14_a.png": [
+                "iter_00000_step_00004_14_a.png", 
+                "iter_00000_step_00003_14_a.png", 
+                "iter_00000_step_00002_14_a.png", 
+                "iter_00000_step_00001_11_a.png", 
+                "iter_00000_step_00000_11_a.png"
+            ], 
+            "iter_00000_step_00004_15_i.png": [
+                "iter_00000_step_00004_15_i.png", 
+                "iter_00000_step_00003_15_i.png", 
+                "iter_00000_step_00002_15_i.png", 
+                "iter_00000_step_00001_12_i.png", 
+                "iter_00000_step_00000_12_i.png"
+            ], 
+            "iter_00000_step_00004_16_div.png": [
+                "iter_00000_step_00004_16_div.png"
+            ], 
+            "iter_00000_step_00004_17_a.png": [
+                "iter_00000_step_00004_17_a.png", 
+                "iter_00000_step_00003_17_a.png", 
+                "iter_00000_step_00002_17_a.png", 
+                "iter_00000_step_00001_13_a.png", 
+                "iter_00000_step_00000_13_a.png"
+            ], 
+            "iter_00000_step_00004_18_li.png": [
+                "iter_00000_step_00004_18_li.png", 
+                "iter_00000_step_00003_18_li.png", 
+                "iter_00000_step_00002_18_li.png", 
+                "iter_00000_step_00001_14_li.png", 
+                "iter_00000_step_00000_14_li.png"
+            ], 
+            "iter_00000_step_00004_19_div.png": [
+                "iter_00000_step_00004_19_div.png", 
+                "iter_00000_step_00003_19_div.png", 
+                "iter_00000_step_00002_19_div.png"
+            ], 
+            "iter_00000_step_00004_1_li.png": [
+                "iter_00000_step_00004_1_li.png", 
+                "iter_00000_step_00003_1_li.png", 
+                "iter_00000_step_00002_1_li.png"
+            ], 
+            "iter_00000_step_00004_20_a.png": [
+                "iter_00000_step_00004_20_a.png", 
+                "iter_00000_step_00003_20_a.png", 
+                "iter_00000_step_00002_20_a.png", 
+                "iter_00000_step_00001_16_a.png", 
+                "iter_00000_step_00000_16_a.png"
+            ], 
+            "iter_00000_step_00004_21_div.png": [
+                "iter_00000_step_00004_21_div.png", 
+                "iter_00000_step_00003_21_div.png", 
+                "iter_00000_step_00002_21_div.png"
+            ], 
+            "iter_00000_step_00004_22_div.png": [
+                "iter_00000_step_00004_22_div.png"
+            ], 
+            "iter_00000_step_00004_23_li.png": [
+                "iter_00000_step_00004_23_li.png", 
+                "iter_00000_step_00003_23_li.png", 
+                "iter_00000_step_00002_23_li.png", 
+                "iter_00000_step_00001_17_li.png", 
+                "iter_00000_step_00000_17_li.png"
+            ], 
+            "iter_00000_step_00004_24_button.png": [
+                "iter_00000_step_00004_24_button.png", 
+                "iter_00000_step_00003_24_button.png", 
+                "iter_00000_step_00002_24_button.png"
+            ], 
+            "iter_00000_step_00004_25_a.png": [
+                "iter_00000_step_00004_25_a.png", 
+                "iter_00000_step_00003_25_a.png", 
+                "iter_00000_step_00002_25_a.png", 
+                "iter_00000_step_00001_18_a.png", 
+                "iter_00000_step_00000_18_a.png"
+            ], 
+            "iter_00000_step_00004_26_li.png": [
+                "iter_00000_step_00004_26_li.png", 
+                "iter_00000_step_00003_26_li.png", 
+                "iter_00000_step_00002_26_li.png", 
+                "iter_00000_step_00001_19_li.png", 
+                "iter_00000_step_00000_19_li.png"
+            ], 
+            "iter_00000_step_00004_27_div.png": [
+                "iter_00000_step_00004_27_div.png"
+            ], 
+            "iter_00000_step_00004_28_div.png": [
+                "iter_00000_step_00004_28_div.png", 
+                "iter_00000_step_00003_28_div.png", 
+                "iter_00000_step_00002_28_div.png"
+            ], 
+            "iter_00000_step_00004_29_div.png": [
+                "iter_00000_step_00004_29_div.png", 
+                "iter_00000_step_00003_29_div.png", 
+                "iter_00000_step_00002_29_div.png"
+            ], 
+            "iter_00000_step_00004_2_i.png": [
+                "iter_00000_step_00004_2_i.png", 
+                "iter_00000_step_00003_2_i.png", 
+                "iter_00000_step_00002_2_i.png"
+            ], 
+            "iter_00000_step_00004_30_div.png": [
+                "iter_00000_step_00004_30_div.png", 
+                "iter_00000_step_00003_30_div.png", 
+                "iter_00000_step_00002_30_div.png"
+            ], 
+            "iter_00000_step_00004_31_div.png": [
+                "iter_00000_step_00004_31_div.png", 
+                "iter_00000_step_00003_31_div.png", 
+                "iter_00000_step_00002_31_div.png"
+            ], 
+            "iter_00000_step_00004_32_div.png": [
+                "iter_00000_step_00004_32_div.png", 
+                "iter_00000_step_00003_32_div.png", 
+                "iter_00000_step_00002_32_div.png"
+            ], 
+            "iter_00000_step_00004_33_a.png": [
+                "iter_00000_step_00004_33_a.png", 
+                "iter_00000_step_00003_33_a.png", 
+                "iter_00000_step_00002_33_a.png", 
+                "iter_00000_step_00001_21_a.png", 
+                "iter_00000_step_00000_21_a.png"
+            ], 
+            "iter_00000_step_00004_34_div.png": [
+                "iter_00000_step_00004_34_div.png", 
+                "iter_00000_step_00003_34_div.png", 
+                "iter_00000_step_00002_34_div.png"
+            ], 
+            "iter_00000_step_00004_35_div.png": [
+                "iter_00000_step_00004_35_div.png", 
+                "iter_00000_step_00003_35_div.png", 
+                "iter_00000_step_00002_35_div.png"
+            ], 
+            "iter_00000_step_00004_36_li.png": [
+                "iter_00000_step_00004_36_li.png", 
+                "iter_00000_step_00003_36_li.png", 
+                "iter_00000_step_00002_36_li.png", 
+                "iter_00000_step_00001_24_li.png", 
+                "iter_00000_step_00000_24_li.png"
+            ], 
+            "iter_00000_step_00004_37_div.png": [
+                "iter_00000_step_00004_37_div.png", 
+                "iter_00000_step_00003_37_div.png", 
+                "iter_00000_step_00002_37_div.png"
+            ], 
+            "iter_00000_step_00004_38_div.png": [
+                "iter_00000_step_00004_38_div.png", 
+                "iter_00000_step_00003_38_div.png", 
+                "iter_00000_step_00002_38_div.png"
+            ], 
+            "iter_00000_step_00004_39_div.png": [
+                "iter_00000_step_00004_39_div.png", 
+                "iter_00000_step_00003_39_div.png", 
+                "iter_00000_step_00002_39_div.png"
+            ], 
+            "iter_00000_step_00004_3_a.png": [
+                "iter_00000_step_00004_3_a.png", 
+                "iter_00000_step_00003_3_a.png", 
+                "iter_00000_step_00002_3_a.png", 
+                "iter_00000_step_00001_3_a.png", 
+                "iter_00000_step_00000_3_a.png"
+            ], 
+            "iter_00000_step_00004_40_button.png": [
+                "iter_00000_step_00004_40_button.png", 
+                "iter_00000_step_00003_40_button.png", 
+                "iter_00000_step_00002_40_button.png"
+            ], 
+            "iter_00000_step_00004_41_div.png": [
+                "iter_00000_step_00004_41_div.png", 
+                "iter_00000_step_00003_41_div.png", 
+                "iter_00000_step_00002_41_div.png"
+            ], 
+            "iter_00000_step_00004_42_div.png": [
+                "iter_00000_step_00004_42_div.png", 
+                "iter_00000_step_00003_42_div.png", 
+                "iter_00000_step_00002_42_div.png"
+            ], 
+            "iter_00000_step_00004_43_div.png": [
+                "iter_00000_step_00004_43_div.png", 
+                "iter_00000_step_00003_43_div.png", 
+                "iter_00000_step_00002_43_div.png"
+            ], 
+            "iter_00000_step_00004_44_div.png": [
+                "iter_00000_step_00004_44_div.png", 
+                "iter_00000_step_00003_44_div.png", 
+                "iter_00000_step_00002_44_div.png"
+            ], 
+            "iter_00000_step_00004_45_li.png": [
+                "iter_00000_step_00004_45_li.png", 
+                "iter_00000_step_00003_45_li.png", 
+                "iter_00000_step_00002_45_li.png", 
+                "iter_00000_step_00001_27_li.png", 
+                "iter_00000_step_00000_27_li.png"
+            ], 
+            "iter_00000_step_00004_46_div.png": [
+                "iter_00000_step_00004_46_div.png", 
+                "iter_00000_step_00003_46_div.png", 
+                "iter_00000_step_00002_46_div.png"
+            ], 
+            "iter_00000_step_00004_4_a.png": [
+                "iter_00000_step_00004_4_a.png", 
+                "iter_00000_step_00003_4_a.png", 
+                "iter_00000_step_00002_4_a.png", 
+                "iter_00000_step_00001_4_a.png", 
+                "iter_00000_step_00000_4_a.png"
+            ], 
+            "iter_00000_step_00004_5_button.png": [
+                "iter_00000_step_00004_5_button.png", 
+                "iter_00000_step_00003_5_button.png", 
+                "iter_00000_step_00002_5_button.png"
+            ], 
+            "iter_00000_step_00004_6_div.png": [
+                "iter_00000_step_00004_6_div.png", 
+                "iter_00000_step_00003_6_div.png", 
+                "iter_00000_step_00002_6_div.png"
+            ], 
+            "iter_00000_step_00004_7_div.png": [
+                "iter_00000_step_00004_7_div.png", 
+                "iter_00000_step_00003_7_div.png", 
+                "iter_00000_step_00002_7_div.png"
+            ], 
+            "iter_00000_step_00004_8_i.png": [
+                "iter_00000_step_00004_8_i.png", 
+                "iter_00000_step_00003_8_i.png", 
+                "iter_00000_step_00002_8_i.png", 
+                "iter_00000_step_00001_6_i.png", 
+                "iter_00000_step_00000_6_i.png"
+            ], 
+            "iter_00000_step_00004_9_li.png": [
+                "iter_00000_step_00004_9_li.png", 
+                "iter_00000_step_00003_9_li.png", 
+                "iter_00000_step_00002_9_li.png", 
+                "iter_00000_step_00001_7_li.png", 
+                "iter_00000_step_00000_7_li.png"
+            ], 
+            "iter_00000_step_00005_0_button.png": [
+                "iter_00000_step_00005_0_button.png"
+            ], 
+            "iter_00000_step_00005_1_div.png": [
+                "iter_00000_step_00005_1_div.png"
+            ], 
+            "iter_00000_step_00005_2_div.png": [
+                "iter_00000_step_00005_2_div.png"
+            ], 
+            "iter_00000_step_00005_3_button.png": [
+                "iter_00000_step_00005_3_button.png"
+            ], 
+            "iter_00000_step_00005_4_div.png": [
+                "iter_00000_step_00005_4_div.png"
+            ], 
+            "iter_00000_step_00005_5_span.png": [
+                "iter_00000_step_00005_5_span.png"
+            ], 
+            "iter_00000_step_00005_6_div.png": [
+                "iter_00000_step_00005_6_div.png"
+            ], 
+            "iter_00000_step_00005_7_div.png": [
+                "iter_00000_step_00005_7_div.png"
+            ]
+        }
+    }, 
+    "screens": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_screenshot.png": "iter_00000_step_00000_screenshot.png", 
+            "iter_00000_step_00001_screenshot.png": "iter_00000_step_00000_screenshot.png", 
+            "iter_00000_step_00002_screenshot.png": "iter_00000_step_00003_screenshot.png", 
+            "iter_00000_step_00003_screenshot.png": "iter_00000_step_00003_screenshot.png", 
+            "iter_00000_step_00004_screenshot.png": "iter_00000_step_00004_screenshot.png", 
+            "iter_00000_step_00005_screenshot.png": "iter_00000_step_00005_screenshot.png"
+        }, 
+        "screens_to_elems": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00001_0_h1.png", 
+                "iter_00000_step_00001_1_li.png", 
+                "iter_00000_step_00001_2_i.png", 
+                "iter_00000_step_00004_3_a.png", 
+                "iter_00000_step_00004_4_a.png", 
+                "iter_00000_step_00001_5_div.png", 
+                "iter_00000_step_00004_8_i.png", 
+                "iter_00000_step_00004_9_li.png", 
+                "iter_00000_step_00004_10_a.png", 
+                "iter_00000_step_00004_11_a.png", 
+                "iter_00000_step_00004_12_li.png", 
+                "iter_00000_step_00004_14_a.png", 
+                "iter_00000_step_00004_15_i.png", 
+                "iter_00000_step_00004_17_a.png", 
+                "iter_00000_step_00004_18_li.png", 
+                "iter_00000_step_00001_15_div.png", 
+                "iter_00000_step_00004_20_a.png", 
+                "iter_00000_step_00004_23_li.png", 
+                "iter_00000_step_00004_25_a.png", 
+                "iter_00000_step_00004_26_li.png", 
+                "iter_00000_step_00001_20_div.png", 
+                "iter_00000_step_00004_33_a.png", 
+                "iter_00000_step_00001_22_span.png", 
+                "iter_00000_step_00001_23_div.png", 
+                "iter_00000_step_00004_36_li.png", 
+                "iter_00000_step_00001_25_div.png", 
+                "iter_00000_step_00001_26_div.png", 
+                "iter_00000_step_00004_45_li.png"
+            ], 
+            "iter_00000_step_00003_screenshot.png": [
+                "iter_00000_step_00004_0_div.png", 
+                "iter_00000_step_00004_1_li.png", 
+                "iter_00000_step_00004_2_i.png", 
+                "iter_00000_step_00004_3_a.png", 
+                "iter_00000_step_00004_4_a.png", 
+                "iter_00000_step_00004_5_button.png", 
+                "iter_00000_step_00004_6_div.png", 
+                "iter_00000_step_00004_7_div.png", 
+                "iter_00000_step_00004_8_i.png", 
+                "iter_00000_step_00004_9_li.png", 
+                "iter_00000_step_00004_10_a.png", 
+                "iter_00000_step_00004_11_a.png", 
+                "iter_00000_step_00004_12_li.png", 
+                "iter_00000_step_00004_13_div.png", 
+                "iter_00000_step_00004_14_a.png", 
+                "iter_00000_step_00004_15_i.png", 
+                "iter_00000_step_00003_16_div.png", 
+                "iter_00000_step_00004_17_a.png", 
+                "iter_00000_step_00004_18_li.png", 
+                "iter_00000_step_00004_19_div.png", 
+                "iter_00000_step_00004_20_a.png", 
+                "iter_00000_step_00004_21_div.png", 
+                "iter_00000_step_00003_22_div.png", 
+                "iter_00000_step_00004_23_li.png", 
+                "iter_00000_step_00004_24_button.png", 
+                "iter_00000_step_00004_25_a.png", 
+                "iter_00000_step_00004_26_li.png", 
+                "iter_00000_step_00003_27_div.png", 
+                "iter_00000_step_00004_28_div.png", 
+                "iter_00000_step_00004_29_div.png", 
+                "iter_00000_step_00004_30_div.png", 
+                "iter_00000_step_00004_31_div.png", 
+                "iter_00000_step_00004_32_div.png", 
+                "iter_00000_step_00004_33_a.png", 
+                "iter_00000_step_00004_34_div.png", 
+                "iter_00000_step_00004_35_div.png", 
+                "iter_00000_step_00004_36_li.png", 
+                "iter_00000_step_00004_37_div.png", 
+                "iter_00000_step_00004_38_div.png", 
+                "iter_00000_step_00004_39_div.png", 
+                "iter_00000_step_00004_40_button.png", 
+                "iter_00000_step_00004_41_div.png", 
+                "iter_00000_step_00004_42_div.png", 
+                "iter_00000_step_00004_43_div.png", 
+                "iter_00000_step_00004_44_div.png", 
+                "iter_00000_step_00004_45_li.png", 
+                "iter_00000_step_00004_46_div.png"
+            ], 
+            "iter_00000_step_00004_screenshot.png": [
+                "iter_00000_step_00004_0_div.png", 
+                "iter_00000_step_00004_1_li.png", 
+                "iter_00000_step_00004_2_i.png", 
+                "iter_00000_step_00004_3_a.png", 
+                "iter_00000_step_00004_4_a.png", 
+                "iter_00000_step_00004_5_button.png", 
+                "iter_00000_step_00004_6_div.png", 
+                "iter_00000_step_00004_7_div.png", 
+                "iter_00000_step_00004_8_i.png", 
+                "iter_00000_step_00004_9_li.png", 
+                "iter_00000_step_00004_10_a.png", 
+                "iter_00000_step_00004_11_a.png", 
+                "iter_00000_step_00004_12_li.png", 
+                "iter_00000_step_00004_13_div.png", 
+                "iter_00000_step_00004_14_a.png", 
+                "iter_00000_step_00004_15_i.png", 
+                "iter_00000_step_00004_16_div.png", 
+                "iter_00000_step_00004_17_a.png", 
+                "iter_00000_step_00004_18_li.png", 
+                "iter_00000_step_00004_19_div.png", 
+                "iter_00000_step_00004_20_a.png", 
+                "iter_00000_step_00004_21_div.png", 
+                "iter_00000_step_00004_22_div.png", 
+                "iter_00000_step_00004_23_li.png", 
+                "iter_00000_step_00004_24_button.png", 
+                "iter_00000_step_00004_25_a.png", 
+                "iter_00000_step_00004_26_li.png", 
+                "iter_00000_step_00004_27_div.png", 
+                "iter_00000_step_00004_28_div.png", 
+                "iter_00000_step_00004_29_div.png", 
+                "iter_00000_step_00004_30_div.png", 
+                "iter_00000_step_00004_31_div.png", 
+                "iter_00000_step_00004_32_div.png", 
+                "iter_00000_step_00004_33_a.png", 
+                "iter_00000_step_00004_34_div.png", 
+                "iter_00000_step_00004_35_div.png", 
+                "iter_00000_step_00004_36_li.png", 
+                "iter_00000_step_00004_37_div.png", 
+                "iter_00000_step_00004_38_div.png", 
+                "iter_00000_step_00004_39_div.png", 
+                "iter_00000_step_00004_40_button.png", 
+                "iter_00000_step_00004_41_div.png", 
+                "iter_00000_step_00004_42_div.png", 
+                "iter_00000_step_00004_43_div.png", 
+                "iter_00000_step_00004_44_div.png", 
+                "iter_00000_step_00004_45_li.png", 
+                "iter_00000_step_00004_46_div.png"
+            ], 
+            "iter_00000_step_00005_screenshot.png": [
+                "iter_00000_step_00005_0_button.png", 
+                "iter_00000_step_00005_1_div.png", 
+                "iter_00000_step_00005_2_div.png", 
+                "iter_00000_step_00005_3_button.png", 
+                "iter_00000_step_00005_4_div.png", 
+                "iter_00000_step_00005_5_span.png", 
+                "iter_00000_step_00005_6_div.png", 
+                "iter_00000_step_00005_7_div.png"
+            ]
+        }, 
+        "screens_to_infos": {
+            "iter_00000_step_00000_screenshot.png": {
+                "dupe_count": [
+                    2
+                ], 
+                "dupes": [
+                    "iter_00000_step_00000_screenshot.png", 
+                    "iter_00000_step_00001_screenshot.png"
+                ], 
+                "tags": [
+                    "a", 
+                    "span", 
+                    "i", 
+                    "h1", 
+                    "li", 
+                    "all_screens", 
+                    "div"
+                ], 
+                "text": [
+                    "", 
+                    "profile", 
+                    "welcome_to_the_scripting_api_site", 
+                    "basic_gestures", 
+                    "verify", 
+                    "welcome_to_the_scripting_api_site\n________\n________please_select_one_of_the_tests_above_to_start", 
+                    "tap_param", 
+                    "script_api_testing_site", 
+                    "find_element", 
+                    "logout", 
+                    "2021", 
+                    "home\n______\n________\n______\n______\n________\n__________\n____________basic_gestures\n__________\n__________\n____________find_element\n__________\n__________\n____________verify\n__________\n__________\n____________wait\n__________\n__________\n____________tap_param\n__________\n__________\n____________input_param\n__________\n_____________\n________\n\n________\n__________\n____________\n_______________profile\n____________\n____________\n_______________\n_________________profile\n______________\n______________\n_________________settings\n______________\n____________\n__________\n__________\n____________\n_______________logout", 
+                    "input_param", 
+                    "home", 
+                    "copyright_\u00a9_2021\n____________-_api_sandbox", 
+                    "profile\n____________\n____________\n_______________\n_________________profile\n______________\n______________\n_________________settings", 
+                    "wait"
+                ]
+            }, 
+            "iter_00000_step_00003_screenshot.png": {
+                "dupe_count": [
+                    2
+                ], 
+                "dupes": [
+                    "iter_00000_step_00003_screenshot.png", 
+                    "iter_00000_step_00002_screenshot.png"
+                ], 
+                "tags": [
+                    "a", 
+                    "i", 
+                    "button", 
+                    "li", 
+                    "all_screens", 
+                    "div"
+                ], 
+                "text": [
+                    "", 
+                    "wait_for_template_match\n____________\n______________\n________________\n________________________________\n____________________template_matched_button", 
+                    "input_param", 
+                    "profile\n____________\n____________\n______________\n_________________profile\n______________\n______________\n_________________settings", 
+                    "home", 
+                    "basic_gestures", 
+                    "wait_for_job_to_complete\n____________\n____________\n______________\n______________________________\n__________________\n____________________open_very_slow_modal", 
+                    "verify", 
+                    "tap_param", 
+                    "wait_for_label\n____________\n______________\n________________\n________________________________\n____________________wait_for_label", 
+                    "find_element", 
+                    "logout", 
+                    "wait_for_label", 
+                    "profile", 
+                    "template_matched_button", 
+                    "wait_for_template_match", 
+                    "wait_for_job_to_complete", 
+                    "open_very_slow_modal", 
+                    "home\n____\n______\n____\n____\n______\n________\n__________basic_gestures\n________\n________\n__________find_element\n________\n________\n__________verify\n________\n________\n__________wait\n________\n________\n__________tap_param\n________\n________\n__________input_param\n________\n___________\n______\n\n________\n__________\n____________\n_______________profile\n____________\n____________\n______________\n_________________profile\n______________\n______________\n_________________settings\n______________\n____________\n__________\n__________\n____________\n_______________logout", 
+                    "wait"
+                ]
+            }, 
+            "iter_00000_step_00004_screenshot.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "iter_00000_step_00004_screenshot.png"
+                ], 
+                "tags": [
+                    "a", 
+                    "i", 
+                    "button", 
+                    "li", 
+                    "all_screens", 
+                    "div"
+                ], 
+                "text": [
+                    "", 
+                    "wait_for_template_match\n____________\n______________\n________________\n________________________________\n____________________template_matched_button", 
+                    "input_param", 
+                    "profile\n____________\n____________\n______________\n_________________profile\n______________\n______________\n_________________settings", 
+                    "home", 
+                    "basic_gestures", 
+                    "wait_for_job_to_complete\n____________\n____________\n______________\n______________________________\n__________________\n____________________open_very_slow_modal", 
+                    "verify", 
+                    "tap_param", 
+                    "wait_for_label\n____________\n______________\n________________\n________________________________\n____________________wait_for_label", 
+                    "find_element", 
+                    "logout", 
+                    "wait_for_label", 
+                    "profile", 
+                    "template_matched_button", 
+                    "wait_for_template_match", 
+                    "wait_for_job_to_complete", 
+                    "open_very_slow_modal", 
+                    "home\n____\n______\n____\n____\n______\n________\n__________basic_gestures\n________\n________\n__________find_element\n________\n________\n__________verify\n________\n________\n__________wait\n________\n________\n__________tap_param\n________\n________\n__________input_param\n________\n___________\n______\n\n________\n__________\n____________\n_______________profile\n____________\n____________\n______________\n_________________profile\n______________\n______________\n_________________settings\n______________\n____________\n__________\n__________\n____________\n_______________logout", 
+                    "wait"
+                ]
+            }, 
+            "iter_00000_step_00005_screenshot.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "iter_00000_step_00005_screenshot.png"
+                ], 
+                "tags": [
+                    "all_screens", 
+                    "button", 
+                    "span", 
+                    "div"
+                ], 
+                "text": [
+                    "slow_modal_says:\n________\n__________\u00d7", 
+                    "slow_modal_says:\n________\n__________\u00d7\n________\n______\n______\n________sorry_i'm_late._thanks_for_waiting_on_me._now_you_can_close_me!\n______\n______\n________complete_job", 
+                    "complete_job", 
+                    "\u00d7", 
+                    "sorry_i'm_late._thanks_for_waiting_on_me._now_you_can_close_me!"
+                ]
+            }
+        }, 
+        "sorted_screens": [
+            "iter_00000_step_00003_screenshot.png", 
+            "iter_00000_step_00004_screenshot.png", 
+            "iter_00000_step_00000_screenshot.png", 
+            "iter_00000_step_00005_screenshot.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_screenshot.png", 
+                "iter_00000_step_00001_screenshot.png"
+            ], 
+            "iter_00000_step_00003_screenshot.png": [
+                "iter_00000_step_00003_screenshot.png", 
+                "iter_00000_step_00002_screenshot.png"
+            ], 
+            "iter_00000_step_00004_screenshot.png": [
+                "iter_00000_step_00004_screenshot.png"
+            ], 
+            "iter_00000_step_00005_screenshot.png": [
+                "iter_00000_step_00005_screenshot.png"
+            ]
+        }
+    }
+}

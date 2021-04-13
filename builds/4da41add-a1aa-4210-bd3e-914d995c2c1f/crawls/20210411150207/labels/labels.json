@@ -1,0 +1,14 @@
+{
+    "elems": {
+        "iter_00000_step_00022_18_input.png": [
+            "inp_slider"
+        ], 
+        "iter_00000_step_00022_31_button.png": [
+            "btn_button_find_element"
+        ], 
+        "iter_00000_step_00022_8_a.png": [
+            "btn_link_find_element"
+        ]
+    }, 
+    "screens": {}
+}

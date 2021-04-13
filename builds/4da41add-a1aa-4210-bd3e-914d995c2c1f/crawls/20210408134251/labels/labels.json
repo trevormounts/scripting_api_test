@@ -1,0 +1,26 @@
+{
+    "elems": {
+        "iter_00000_step_00004_10_a.png": [
+            "mnu_wait"
+        ], 
+        "iter_00000_step_00004_17_a.png": [
+            "mnu_find_element"
+        ], 
+        "iter_00000_step_00004_20_a.png": [
+            "mnu_profile"
+        ], 
+        "iter_00000_step_00004_24_button.png": [
+            "btn_wait_for_label"
+        ], 
+        "iter_00000_step_00004_40_button.png": [
+            "btn_template_matched"
+        ], 
+        "iter_00000_step_00004_5_button.png": [
+            "btn_open_slow_modal"
+        ], 
+        "iter_00000_step_00005_3_button.png": [
+            "btn_complete_job"
+        ]
+    }, 
+    "screens": {}
+}

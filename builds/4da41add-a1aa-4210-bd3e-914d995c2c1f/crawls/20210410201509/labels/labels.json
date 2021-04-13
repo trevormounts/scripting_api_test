@@ -1,0 +1,14 @@
+{
+    "elems": {
+        "iter_00000_step_00005_27_textarea.png": [
+            "inp_element_info_txt"
+        ], 
+        "iter_00000_step_00010_17_a.png": [
+            "mnu_basic_gestures"
+        ], 
+        "iter_00000_step_00010_31_button.png": [
+            "btn_button_find_element"
+        ]
+    }, 
+    "screens": {}
+}

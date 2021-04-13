@@ -1,0 +1,98 @@
+{
+    "elems": {
+        "iter_00000_step_00000_8_a.png": [
+            "mnu_basic_gestures"
+        ], 
+        "iter_00000_step_00003_16_button.png": [
+            "btn_double_tap"
+        ], 
+        "iter_00000_step_00003_28_input.png": [
+            "txt_input_no_submit"
+        ], 
+        "iter_00000_step_00003_30_button.png": [
+            "btn_submit"
+        ], 
+        "iter_00000_step_00003_3_button.png": [
+            "btn_tap"
+        ], 
+        "iter_00000_step_00003_5_input.png": [
+            "txt_input_submit"
+        ], 
+        "iter_00000_step_00005_0_button.png": [
+            "btn_two_strings"
+        ], 
+        "iter_00000_step_00005_11_button.png": [
+            "btn_two_labels"
+        ], 
+        "iter_00000_step_00005_16_button.png": [
+            "btn_two_labeled_elements"
+        ], 
+        "iter_00000_step_00005_28_button.png": [
+            "verify_string_not_present"
+        ], 
+        "iter_00000_step_00005_29_button.png": [
+            "btn_one_string"
+        ], 
+        "iter_00000_step_00005_31_button.png": [
+            "btn_verify_label_not_present"
+        ], 
+        "iter_00000_step_00005_38_button.png": [
+            "btn_one_label"
+        ], 
+        "iter_00000_step_00007_25_button.png": [
+            "btn_template_matched"
+        ], 
+        "iter_00000_step_00007_27_button.png": [
+            "btn_wait_for_label"
+        ], 
+        "iter_00000_step_00007_39_button.png": [
+            "btn_open_slow_modal"
+        ], 
+        "iter_00000_step_00010_21_a.png": [
+            "btn_link_find_element"
+        ], 
+        "iter_00000_step_00010_22_input.png": [
+            "inp_slider"
+        ], 
+        "iter_00000_step_00010_42_input.png": [
+            "inp_checkbox"
+        ], 
+        "iter_00000_step_00010_43_button.png": [
+            "btn_button_find_element"
+        ], 
+        "iter_00000_step_00010_4_input.png": [
+            "btn_radio"
+        ], 
+        "iter_00000_step_00010_5_input.png": [
+            "txt_input"
+        ], 
+        "iter_00000_step_00011_10_a.png": [
+            "mnu_profile"
+        ], 
+        "iter_00000_step_00011_12_a.png": [
+            "mnu_find_element"
+        ], 
+        "iter_00000_step_00011_13_a.png": [
+            "mnu_tap_param"
+        ], 
+        "iter_00000_step_00011_25_a.png": [
+            "mnu_verify"
+        ], 
+        "iter_00000_step_00011_26_a.png": [
+            "mnu_logout"
+        ], 
+        "iter_00000_step_00011_27_a.png": [
+            "mnu_input_param"
+        ], 
+        "iter_00000_step_00011_6_a.png": [
+            "mnu_wait"
+        ], 
+        "iter_00000_step_00011_8_a.png": [
+            "mnu_basic_gestures"
+        ], 
+        "iter_00000_step_00011_9_a.png": [
+            "mnu_home"
+        ]
+    }, 
+    "screens": {}
+}

@@ -1,0 +1,172 @@
+{
+    "003 Wait": {
+        "description": "", 
+        "is_deactivated": false, 
+        "steps": [
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "mnu_wait"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "script_name": "verify_wait.py", 
+                "type": "execute_script", 
+                "widget": "default"
+            }
+        ], 
+        "tags": [], 
+        "temp_id": "b60e554a-98a2-11eb-a973-787b8ade0f4b", 
+        "title": "003 Wait"
+    }, 
+    "01 Basic Gestures": {
+        "description": "", 
+        "is_deactivated": false, 
+        "steps": [
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "mnu_basic_gestures"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "script_name": "basic_gestures.py", 
+                "type": "execute_script", 
+                "widget": "default"
+            }
+        ], 
+        "tags": [], 
+        "temp_id": "722610f5-9808-11eb-bd44-787b8ade0f4b", 
+        "title": "01 Basic Gestures"
+    }, 
+    "02 Verify": {
+        "description": "", 
+        "is_deactivated": false, 
+        "steps": [
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "mnu_verify"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "script_name": "verify_all.py", 
+                "type": "execute_script", 
+                "widget": "default"
+            }
+        ], 
+        "tags": [], 
+        "temp_id": "5eb2808a-980e-11eb-84d9-787b8ade0f4b", 
+        "title": "02 Verify"
+    }, 
+    "04 Find Element": {
+        "description": "", 
+        "is_deactivated": false, 
+        "steps": [
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "execute_script", 
+                "label_count": null, 
+                "labels": [], 
+                "script_name": "find_element_page.py", 
+                "type": "execute_script", 
+                "widget": "default"
+            }
+        ], 
+        "tags": [], 
+        "temp_id": "e1adadc0-98a9-11eb-883f-787b8ade0f4b", 
+        "title": "04 Find Element"
+    }, 
+    "practice find element": {
+        "description": "", 
+        "is_deactivated": false, 
+        "steps": [
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "mnu_find_element"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "execute_script", 
+                "label_count": null, 
+                "labels": [], 
+                "script_name": "find_btn_link.py", 
+                "type": "execute_script", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_link_find_element"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }
+        ], 
+        "tags": [], 
+        "temp_id": "267ee64c-995b-11eb-b4d3-787b8ade0f4b", 
+        "title": "practice find element"
+    }
+}

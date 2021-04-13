@@ -1,0 +1,74 @@
+{
+    "elems": {
+        "iter_00000_step_00004_11_a.png": {
+            "mnu_verify": {
+                "all_scores": {
+                    "hash_based": 1.0, 
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.99
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00004_14_a.png": {
+            "mnu_basic_gestures": {
+                "all_scores": {
+                    "hash_based": 1.0, 
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.99
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00004_25_a.png": {
+            "mnu_input_param": {
+                "all_scores": {
+                    "hash_based": 1.0, 
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.97
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00004_33_a.png": {
+            "mnu_home": {
+                "all_scores": {
+                    "hash_based": 1.0, 
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.98
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00004_36_li.png": {
+            "mnu_logout": {
+                "all_scores": {
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.99
+                }, 
+                "score": 0.99, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00004_3_a.png": {
+            "mnu_tap_param": {
+                "all_scores": {
+                    "hash_based": 1.0, 
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.98
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00004_4_a.png": {
+            "mnu_logout": {
+                "all_scores": {
+                    "hash_based": 1.0, 
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.99
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }
+    }, 
+    "screens": {}
+}
